@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mr-ads-codes.github.io/abdulsalam-portfolio/sitemap.xml

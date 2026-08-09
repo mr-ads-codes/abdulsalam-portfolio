@@ -1,0 +1,21 @@
+{
+  "name": "Abdul Salam — Professional Portfolio",
+  "short_name": "Abdul Salam",
+  "icons": [
+    {
+      "src": "favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#0b1c32",
+  "background_color": "#f5f1e9"
+}
