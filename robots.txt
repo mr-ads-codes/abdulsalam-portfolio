@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mr-abdul-salam.github.io/abdulsalam-portfolio/sitemap.xml
