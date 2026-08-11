@@ -1,0 +1,801 @@
+name,phone,email,website,type,address,city,postcode
+Barbier City 82,+49 241 79549263,barbier-city-82@web.de,https://www.barbier-city-82.de,Barber,"Kaiserstraße 119, 52068 Aachen",Aachen,52068
+Barbier Zentrum 69,+49 241 64928482,barbier-zentrum-69@outlook.de,,Hairdresser,"Lindenstraße 116, 52068 Aachen",Aachen,52068
+Damenfriseur 10,+49 241 43698228,info@damenfriseur-10.de,https://www.damenfriseur-10.de,Hairdresser,"Berliner Straße 48, 52066 Aachen",Aachen,52066
+Damenfriseur Aachen,+49 241 93006059,damenfriseur-aachen@web.de,https://www.damenfriseur-aachen.de,Barber,"Schillerstraße 60, 52072 Aachen",Aachen,52072
+Damenfriseur City 80,+49 241 53055944,info@damenfriseur-city-80.de,https://www.damenfriseur-city-80.de,Barber,"Hamburger Straße 80, 52064 Aachen",Aachen,52064
+Friseursalon Zentrum 24,+49 241 62774703,friseursalon-zentrum-24@gmail.com,https://www.friseursalon-zentrum-24.de,Barber,"Schillerstraße 116, 52064 Aachen",Aachen,52064
+Frisör City 25,+49 241 83169267,frisr-city-25@t-online.de,https://www.frisr-city-25.de,Hairdresser,"Hamburger Straße 101, 52072 Aachen",Aachen,52072
+Gentlemen's Cut Aachen,+49 241 79325634,gentlemens-cut-aachen@web.de,https://www.gentlemens-cut-aachen.de,Hairdresser,"Lindenstraße 23, 52070 Aachen",Aachen,52070
+Haarstudio Aachen,+49 241 87349083,kontakt@haarstudio-aachen.de,https://www.haarstudio-aachen.de,Hairdresser,"Goethestraße 26, 52076 Aachen",Aachen,52076
+Haarstudio Zentrum 28,+49 241 36318428,haarstudio-zentrum-28@web.de,https://www.haarstudio-zentrum-28.de,Hairdresser,"Kirchstraße 77, 52066 Aachen",Aachen,52066
+Hair & Beauty Aachen,+49 241 21024893,info@hair--beauty-aachen.de,https://www.hair--beauty-aachen.de,Hairdresser,"Lindenstraße 101, 52070 Aachen",Aachen,52070
+Hair & Beauty Aachen 45,+49 241 44297137,info@hair--beauty-aachen-45.de,,Hairdresser,"Berliner Straße 126, 52072 Aachen",Aachen,52072
+Herrenfriseur City 71,+49 241 47902387,info@herrenfriseur-city-71.de,https://www.herrenfriseur-city-71.de,Hairdresser,"Kölner Straße 93, 52068 Aachen",Aachen,52068
+Schnitt & Style City 74,+49 241 69542486,info@schnitt--style-city-74.de,https://www.schnitt--style-city-74.de,Hairdresser,"Kirchstraße 84, 52074 Aachen",Aachen,52074
+Style Studio 89,+49 241 87033148,kontakt@style-studio-89.de,https://www.style-studio-89.de,Hairdresser,"Bahnhofstraße 146, 52074 Aachen",Aachen,52074
+Style Studio City 45,+49 241 45684119,info@style-studio-city-45.de,,Hairdresser,"Münchner Straße 79, 52070 Aachen",Aachen,52070
+Style Studio Mitte 10,+49 241 30645462,style-studio-mitte-10@t-online.de,https://www.style-studio-mitte-10.de,Hairdresser,"Kirchstraße 79, 52074 Aachen",Aachen,52074
+Barber Augsburg,+49 821 96543571,termin@barber-augsburg.de,,Barber,"Goethestraße 59, 86156 Augsburg",Augsburg,86156
+Barber Augsburg 90,+49 821 82202384,kontakt@barber-augsburg-90.de,,Barber,"Bahnhofstraße 89, 86154 Augsburg",Augsburg,86154
+Barbier Augsburg,+49 821 87997508,barbier-augsburg@t-online.de,,Hairdresser,"Marktplatz 112, 86154 Augsburg",Augsburg,86154
+Barbier Mitte 65,+49 821 45005292,kontakt@barbier-mitte-65.de,https://www.barbier-mitte-65.de,Hairdresser,"Kölner Straße 31, 86156 Augsburg",Augsburg,86156
+Damenfriseur Zentrum 76,+49 821 36808000,kontakt@damenfriseur-zentrum-76.de,https://www.damenfriseur-zentrum-76.de,Hairdresser,"Berliner Straße 143, 86153 Augsburg",Augsburg,86153
+Friseursalon Augsburg,+49 821 88320549,termin@friseursalon-augsburg.de,,Hairdresser,"Friedrichstraße 4, 86152 Augsburg",Augsburg,86152
+Frisör Augsburg,+49 821 81983084,salon@frisr-augsburg.de,https://www.frisr-augsburg.de,Hairdresser,"Kaiserstraße 51, 86156 Augsburg",Augsburg,86156
+Gentlemen's Cut 93,+49 821 16116583,service@gentlemens-cut-93.de,https://www.gentlemens-cut-93.de,Barber,"Hamburger Straße 94, 86153 Augsburg",Augsburg,86153
+Gentlemen's Cut Zentrum 73,+49 821 87187184,info@gentlemens-cut-zentrum-73.de,https://www.gentlemens-cut-zentrum-73.de,Hairdresser,"Bahnhofstraße 147, 86161 Augsburg",Augsburg,86161
+Haar Atelier Mitte 94,+49 821 59816326,haar-atelier-mitte-94@gmail.com,https://www.haar-atelier-mitte-94.de,Barber,"Goethestraße 1, 86153 Augsburg",Augsburg,86153
+Haar Atelier Mitte 99,+49 821 54091307,haar-atelier-mitte-99@gmx.de,,Barber,"Kirchstraße 87, 86154 Augsburg",Augsburg,86154
+Haarsalon Augsburg,+49 821 83682090,service@haarsalon-augsburg.de,https://www.haarsalon-augsburg.de,Hairdresser,"Friedrichstraße 37, 86153 Augsburg",Augsburg,86153
+Hair & Beauty Augsburg,+49 821 79955090,termin@hair--beauty-augsburg.de,https://www.hair--beauty-augsburg.de,Hairdresser,"Marktplatz 44, 86156 Augsburg",Augsburg,86156
+Hair Design City 10,+49 821 26512844,kontakt@hair-design-city-10.de,https://www.hair-design-city-10.de,Hairdresser,"Hauptstraße 88, 86159 Augsburg",Augsburg,86159
+Hair Lounge 62,+49 821 79729059,termin@hair-lounge-62.de,https://www.hair-lounge-62.de,Hairdresser,"Münchner Straße 25, 86154 Augsburg",Augsburg,86154
+Hair Lounge City 9,+49 821 51794077,salon@hair-lounge-city-9.de,https://www.hair-lounge-city-9.de,Hairdresser,"Hamburger Straße 22, 86150 Augsburg",Augsburg,86150
+Herrenfriseur Mitte 10,+49 821 31287937,herrenfriseur-mitte-10@web.de,https://www.herrenfriseur-mitte-10.de,Hairdresser,"Lindenstraße 135, 86154 Augsburg",Augsburg,86154
+Herrenfriseur Mitte 60,+49 821 87003436,herrenfriseur-mitte-60@gmail.com,https://www.herrenfriseur-mitte-60.de,Hairdresser,"Hauptstraße 76, 86150 Augsburg",Augsburg,86150
+Schnitt & Style City 29,+49 821 39395159,salon@schnitt--style-city-29.de,,Hairdresser,"Goethestraße 15, 86150 Augsburg",Augsburg,86150
+Style Studio City 97,+49 821 64007330,termin@style-studio-city-97.de,,Hairdresser,"Münchner Straße 25, 86156 Augsburg",Augsburg,86156
+Barber Shop City,+49 30 41271896,service@barber-shop-city.de,https://www.barber-shop-city.de,Barber,"Lindenstraße 39, 10247 Berlin",Berlin,10247
+Barber Shop Zentrum,+49 30 71084183,service@barber-shop-zentrum.de,https://www.barber-shop-zentrum.de,Hairdresser,"Kaiserstraße 130, 10249 Berlin",Berlin,10249
+Barbier City,+49 30 75490230,barbier-city@gmail.com,https://www.barbier-city.de,Hairdresser,"Kaiserstraße 10, 10247 Berlin",Berlin,10247
+Coiffeur Berlin,+49 30 58640500,info@coiffeur-berlin.de,https://www.coiffeur-berlin.de,Hairdresser,"Friedrichstraße 25, 10247 Berlin",Berlin,10247
+Friseur,+49 30 23372730,salon@friseur.de,,Barber,"Hamburger Straße 65, 10245 Berlin",Berlin,10245
+Friseur Berlin,+49 30 34579843,service@friseur-berlin.de,https://www.friseur-berlin.de,Hairdresser,"Marktplatz 99, 10245 Berlin",Berlin,10245
+Frisör,+49 30 86645110,termin@frisr.de,https://www.frisr.de,Hairdresser,"Berliner Straße 55, 10243 Berlin",Berlin,10243
+Gentlemen's Cut City,+49 30 84895928,salon@gentlemens-cut-city.de,,Hairdresser,"Lindenstraße 140, 10115 Berlin",Berlin,10115
+Haarsalon Berlin,+49 30 11838907,kontakt@haarsalon-berlin.de,https://www.haarsalon-berlin.de,Hairdresser,"Hauptstraße 119, 10179 Berlin",Berlin,10179
+Haarsalon Berlin 63,+49 30 37903048,kontakt@haarsalon-berlin-63.de,https://www.haarsalon-berlin-63.de,Hairdresser,"Münchner Straße 95, 10249 Berlin",Berlin,10249
+Haarwerk Berlin,+49 30 16945115,haarwerk-berlin@web.de,https://www.haarwerk-berlin.de,Hairdresser,"Kaiserstraße 37, 10179 Berlin",Berlin,10179
+Hair & Beauty,+49 30 77486593,hair--beauty@outlook.de,https://www.hair--beauty.de,Hairdresser,"Bahnhofstraße 75, 10243 Berlin",Berlin,10243
+Hair & Beauty 25,+49 30 31163082,service@hair--beauty-25.de,https://www.hair--beauty-25.de,Hairdresser,"Kirchstraße 51, 10249 Berlin",Berlin,10249
+Hair & Beauty Zentrum,+49 30 82660112,salon@hair--beauty-zentrum.de,https://www.hair--beauty-zentrum.de,Hairdresser,"Goethestraße 94, 10179 Berlin",Berlin,10179
+Herrenfriseur City,+49 30 81801460,termin@herrenfriseur-city.de,https://www.herrenfriseur-city.de,Hairdresser,"Hamburger Straße 80, 10115 Berlin",Berlin,10115
+Barber 69,+49 521 38131306,barber-69@web.de,https://www.barber-69.de,Hairdresser,"Kirchstraße 6, 33609 Bielefeld",Bielefeld,33609
+Barber City 86,+49 521 62284525,salon@barber-city-86.de,https://www.barber-city-86.de,Hairdresser,"Lindenstraße 129, 33602 Bielefeld",Bielefeld,33602
+Barber Mitte 10,+49 521 69160775,barber-mitte-10@web.de,https://www.barber-mitte-10.de,Hairdresser,"Marktplatz 30, 33613 Bielefeld",Bielefeld,33613
+Barbier Bielefeld,+49 521 12842332,termin@barbier-bielefeld.de,,Barber,"Kölner Straße 22, 33615 Bielefeld",Bielefeld,33615
+Coiffeur Bielefeld,+49 521 82191514,kontakt@coiffeur-bielefeld.de,,Barber,"Hamburger Straße 81, 33609 Bielefeld",Bielefeld,33609
+Damenfriseur 66,+49 521 56256644,service@damenfriseur-66.de,https://www.damenfriseur-66.de,Hairdresser,"Kaiserstraße 137, 33604 Bielefeld",Bielefeld,33604
+Damenfriseur Bielefeld,+49 521 73820115,damenfriseur-bielefeld@gmx.de,https://www.damenfriseur-bielefeld.de,Hairdresser,"Schillerstraße 68, 33607 Bielefeld",Bielefeld,33607
+Damenfriseur City 42,+49 521 11938014,service@damenfriseur-city-42.de,https://www.damenfriseur-city-42.de,Barber,"Königstraße 94, 33604 Bielefeld",Bielefeld,33604
+Damenfriseur Zentrum 61,+49 521 57065720,termin@damenfriseur-zentrum-61.de,https://www.damenfriseur-zentrum-61.de,Hairdresser,"Kirchstraße 71, 33604 Bielefeld",Bielefeld,33604
+Frisör Bielefeld,+49 521 21359670,kontakt@frisr-bielefeld.de,https://www.frisr-bielefeld.de,Hairdresser,"Münchner Straße 6, 33615 Bielefeld",Bielefeld,33615
+Gentlemen's Cut Bielefeld,+49 521 20353267,service@gentlemens-cut-bielefeld.de,https://www.gentlemens-cut-bielefeld.de,Barber,"Lindenstraße 23, 33609 Bielefeld",Bielefeld,33609
+Hair & Beauty Zentrum 95,+49 521 88497287,info@hair--beauty-zentrum-95.de,,Barber,"Münchner Straße 76, 33615 Bielefeld",Bielefeld,33615
+Hair Lounge Mitte 75,+49 521 84049636,hair-lounge-mitte-75@web.de,https://www.hair-lounge-mitte-75.de,Hairdresser,"Kölner Straße 141, 33604 Bielefeld",Bielefeld,33604
+Herrenfriseur City 49,+49 521 41549996,service@herrenfriseur-city-49.de,https://www.herrenfriseur-city-49.de,Hairdresser,"Marktplatz 133, 33615 Bielefeld",Bielefeld,33615
+Salon Mitte 10,+49 521 64463864,salon@salon-mitte-10.de,,Barber,"Kaiserstraße 91, 33615 Bielefeld",Bielefeld,33615
+Schnitt & Style 62,+49 521 78081948,salon@schnitt--style-62.de,https://www.schnitt--style-62.de,Hairdresser,"Schillerstraße 96, 33609 Bielefeld",Bielefeld,33609
+Schnitt & Style Bielefeld,+49 521 25985649,termin@schnitt--style-bielefeld.de,https://www.schnitt--style-bielefeld.de,Hairdresser,"Goethestraße 122, 33605 Bielefeld",Bielefeld,33605
+Style Studio,+49 521 63581396,termin@style-studio.de,https://www.style-studio.de,Hairdresser,"Goethestraße 146, 33609 Bielefeld",Bielefeld,33609
+Barber Zentrum 8,+49 234 73260058,service@barber-zentrum-8.de,,Hairdresser,"Schillerstraße 138, 44793 Bochum",Bochum,44793
+Barbier Bochum,+49 234 94440739,kontakt@barbier-bochum.de,https://www.barbier-bochum.de,Hairdresser,"Lindenstraße 65, 44789 Bochum",Bochum,44789
+Damenfriseur Bochum,+49 234 33009632,termin@damenfriseur-bochum.de,https://www.damenfriseur-bochum.de,Hairdresser,"Marktplatz 39, 44799 Bochum",Bochum,44799
+Friseur 12,+49 234 43807325,info@friseur-12.de,https://www.friseur-12.de,Hairdresser,"Bahnhofstraße 23, 44791 Bochum",Bochum,44791
+Friseursalon Zentrum 63,+49 234 73810451,salon@friseursalon-zentrum-63.de,https://www.friseursalon-zentrum-63.de,Hairdresser,"Schillerstraße 44, 44797 Bochum",Bochum,44797
+Frisör 55,+49 234 12642934,frisr-55@t-online.de,,Barber,"Kirchstraße 127, 44799 Bochum",Bochum,44799
+Gentlemen's Cut Mitte 53,+49 234 25227135,gentlemens-cut-mitte-53@web.de,,Hairdresser,"Friedrichstraße 125, 44793 Bochum",Bochum,44793
+Gentlemen's Cut Zentrum 61,+49 234 44510658,gentlemens-cut-zentrum-61@web.de,https://www.gentlemens-cut-zentrum-61.de,Hairdresser,"Kirchstraße 75, 44787 Bochum",Bochum,44787
+Haar Atelier Bochum,+49 234 81050883,haar-atelier-bochum@t-online.de,https://www.haar-atelier-bochum.de,Hairdresser,"Schillerstraße 7, 44791 Bochum",Bochum,44791
+Haarsalon 92,+49 234 44574128,termin@haarsalon-92.de,https://www.haarsalon-92.de,Hairdresser,"Lindenstraße 50, 44801 Bochum",Bochum,44801
+Haarstudio Bochum,+49 234 99917571,kontakt@haarstudio-bochum.de,https://www.haarstudio-bochum.de,Hairdresser,"Berliner Straße 117, 44795 Bochum",Bochum,44795
+Haarstudio Mitte 32,+49 234 27262588,termin@haarstudio-mitte-32.de,https://www.haarstudio-mitte-32.de,Hairdresser,"Hauptstraße 115, 44801 Bochum",Bochum,44801
+Haarstudio Mitte 67,+49 234 28817165,haarstudio-mitte-67@web.de,https://www.haarstudio-mitte-67.de,Barber,"Königstraße 106, 44787 Bochum",Bochum,44787
+Haarwerk Zentrum 60,+49 234 58968938,salon@haarwerk-zentrum-60.de,,Hairdresser,"Hauptstraße 12, 44797 Bochum",Bochum,44797
+Hair Design Mitte 79,+49 234 75152377,termin@hair-design-mitte-79.de,,Hairdresser,"Bahnhofstraße 140, 44787 Bochum",Bochum,44787
+Herrenfriseur 62,+49 234 42231368,salon@herrenfriseur-62.de,https://www.herrenfriseur-62.de,Hairdresser,"Münchner Straße 143, 44789 Bochum",Bochum,44789
+Herrenfriseur Bochum,+49 234 17135538,termin@herrenfriseur-bochum.de,,Hairdresser,"Königstraße 87, 44789 Bochum",Bochum,44789
+Schnitt & Style City 72,+49 234 49496369,schnitt--style-city-72@web.de,https://www.schnitt--style-city-72.de,Hairdresser,"Kirchstraße 1, 44789 Bochum",Bochum,44789
+Style Studio Mitte 80,+49 234 90201966,kontakt@style-studio-mitte-80.de,https://www.style-studio-mitte-80.de,Hairdresser,"Berliner Straße 72, 44787 Bochum",Bochum,44787
+Barber Bonn,+49 228 86428679,barber-bonn@gmail.com,https://www.barber-bonn.de,Hairdresser,"Schillerstraße 39, 53115 Bonn",Bonn,53115
+Barber Bonn 69,+49 228 77929763,info@barber-bonn-69.de,https://www.barber-bonn-69.de,Hairdresser,"Goethestraße 124, 53121 Bonn",Bonn,53121
+Barber City 47,+49 228 33162244,barber-city-47@t-online.de,https://www.barber-city-47.de,Barber,"Friedrichstraße 96, 53117 Bonn",Bonn,53117
+Barber Shop 8,+49 228 77840282,barber-shop-8@gmx.de,https://www.barber-shop-8.de,Hairdresser,"Kirchstraße 76, 53115 Bonn",Bonn,53115
+Barbier Bonn,+49 228 66044361,service@barbier-bonn.de,https://www.barbier-bonn.de,Hairdresser,"Hamburger Straße 79, 53117 Bonn",Bonn,53117
+Barbier Mitte 68,+49 228 37109540,barbier-mitte-68@gmail.com,,Hairdresser,"Hamburger Straße 70, 53121 Bonn",Bonn,53121
+Beauty Salon 16,+49 228 12393936,beauty-salon-16@gmail.com,https://www.beauty-salon-16.de,Hairdresser,"Goethestraße 98, 53121 Bonn",Bonn,53121
+Beauty Salon Bonn,+49 228 54605404,salon@beauty-salon-bonn.de,https://www.beauty-salon-bonn.de,Hairdresser,"Kirchstraße 109, 53125 Bonn",Bonn,53125
+Friseur Bonn,+49 228 33854231,kontakt@friseur-bonn.de,https://www.friseur-bonn.de,Hairdresser,"Kölner Straße 26, 53117 Bonn",Bonn,53117
+Friseur Bonn 16,+49 228 70585282,salon@friseur-bonn-16.de,,Hairdresser,"Schillerstraße 108, 53117 Bonn",Bonn,53117
+Friseur City 25,+49 228 30443141,service@friseur-city-25.de,,Hairdresser,"Kölner Straße 62, 53111 Bonn",Bonn,53111
+Friseur Zentrum,+49 228 85480975,info@friseur-zentrum.de,https://www.friseur-zentrum.de,Hairdresser,"Lindenstraße 49, 53117 Bonn",Bonn,53117
+Friseursalon City 34,+49 228 26359661,friseursalon-city-34@gmail.com,https://www.friseursalon-city-34.de,Barber,"Berliner Straße 4, 53123 Bonn",Bonn,53123
+Frisör Zentrum 83,+49 228 68201677,frisr-zentrum-83@web.de,,Hairdresser,"Schillerstraße 118, 53123 Bonn",Bonn,53123
+Gentlemen's Cut Bonn,+49 228 23884419,kontakt@gentlemens-cut-bonn.de,,Hairdresser,"Königstraße 150, 53121 Bonn",Bonn,53121
+Gentlemen's Cut Bonn 47,+49 228 42884568,gentlemens-cut-bonn-47@web.de,https://www.gentlemens-cut-bonn-47.de,Hairdresser,"Marktplatz 101, 53125 Bonn",Bonn,53125
+Haar Atelier Bonn,+49 228 22996851,haar-atelier-bonn@outlook.de,https://www.haar-atelier-bonn.de,Hairdresser,"Friedrichstraße 66, 53117 Bonn",Bonn,53117
+Haar Atelier Bonn 25,+49 228 67491773,termin@haar-atelier-bonn-25.de,https://www.haar-atelier-bonn-25.de,Hairdresser,"Königstraße 66, 53111 Bonn",Bonn,53111
+Haar Atelier Mitte 36,+49 228 17271788,termin@haar-atelier-mitte-36.de,,Hairdresser,"Bahnhofstraße 67, 53121 Bonn",Bonn,53121
+Haarwerk,+49 228 52449847,salon@haarwerk.de,https://www.haarwerk.de,Barber,"Königstraße 98, 53115 Bonn",Bonn,53115
+Hair & Beauty Bonn,+49 228 16548165,termin@hair--beauty-bonn.de,,Barber,"Hamburger Straße 104, 53111 Bonn",Bonn,53111
+Hair Lounge 83,+49 228 53295765,hair-lounge-83@web.de,https://www.hair-lounge-83.de,Hairdresser,"Goethestraße 40, 53115 Bonn",Bonn,53115
+Hair Lounge Mitte 15,+49 228 15963545,kontakt@hair-lounge-mitte-15.de,https://www.hair-lounge-mitte-15.de,Barber,"Kirchstraße 9, 53117 Bonn",Bonn,53117
+Hair Lounge Mitte 56,+49 228 51285665,termin@hair-lounge-mitte-56.de,,Barber,"Hauptstraße 131, 53111 Bonn",Bonn,53111
+Schnitt & Style City 87,+49 228 38759823,kontakt@schnitt--style-city-87.de,https://www.schnitt--style-city-87.de,Hairdresser,"Königstraße 89, 53125 Bonn",Bonn,53125
+Barber Shop 26,+49 531 33051685,barber-shop-26@outlook.de,https://www.barber-shop-26.de,Hairdresser,"Friedrichstraße 43, 38112 Braunschweig",Braunschweig,38112
+Barbier Mitte 43,+49 531 47803435,info@barbier-mitte-43.de,https://www.barbier-mitte-43.de,Hairdresser,"Hamburger Straße 122, 38100 Braunschweig",Braunschweig,38100
+Barbier Zentrum 83,+49 531 42079222,barbier-zentrum-83@gmx.de,https://www.barbier-zentrum-83.de,Barber,"Münchner Straße 65, 38112 Braunschweig",Braunschweig,38112
+Beauty Salon Braunschweig,+49 531 16724593,beauty-salon-braunschweig@gmail.com,https://www.beauty-salon-braunschweig.de,Hairdresser,"Hamburger Straße 94, 38114 Braunschweig",Braunschweig,38114
+Coiffeur City 79,+49 531 16537838,coiffeur-city-79@outlook.de,https://www.coiffeur-city-79.de,Hairdresser,"Berliner Straße 81, 38106 Braunschweig",Braunschweig,38106
+Damenfriseur 29,+49 531 19518588,kontakt@damenfriseur-29.de,,Hairdresser,"Münchner Straße 32, 38112 Braunschweig",Braunschweig,38112
+Damenfriseur Braunschweig,+49 531 63770046,damenfriseur-braunschweig@web.de,https://www.damenfriseur-braunschweig.de,Hairdresser,"Bahnhofstraße 1, 38112 Braunschweig",Braunschweig,38112
+Friseursalon Mitte 30,+49 531 82355969,friseursalon-mitte-30@outlook.de,,Barber,"Bahnhofstraße 53, 38110 Braunschweig",Braunschweig,38110
+Friseursalon Zentrum 1,+49 531 73584397,salon@friseursalon-zentrum-1.de,https://www.friseursalon-zentrum-1.de,Hairdresser,"Bahnhofstraße 72, 38102 Braunschweig",Braunschweig,38102
+Haar Atelier Mitte 49,+49 531 51539083,haar-atelier-mitte-49@t-online.de,https://www.haar-atelier-mitte-49.de,Barber,"Kölner Straße 37, 38100 Braunschweig",Braunschweig,38100
+Haarsalon City,+49 531 75938077,haarsalon-city@outlook.de,https://www.haarsalon-city.de,Barber,"Goethestraße 122, 38104 Braunschweig",Braunschweig,38104
+Haarstudio 82,+49 531 69766274,salon@haarstudio-82.de,https://www.haarstudio-82.de,Barber,"Kaiserstraße 122, 38108 Braunschweig",Braunschweig,38108
+Haarstudio Mitte 19,+49 531 55213164,info@haarstudio-mitte-19.de,https://www.haarstudio-mitte-19.de,Hairdresser,"Königstraße 118, 38114 Braunschweig",Braunschweig,38114
+Hair Design Braunschweig,+49 531 56408708,termin@hair-design-braunschweig.de,https://www.hair-design-braunschweig.de,Hairdresser,"Lindenstraße 38, 38112 Braunschweig",Braunschweig,38112
+Hair Design Braunschweig 89,+49 531 23415965,hair-design-braunschweig-89@gmail.com,https://www.hair-design-braunschweig-89.de,Hairdresser,"Kaiserstraße 36, 38114 Braunschweig",Braunschweig,38114
+Hair Lounge Mitte 20,+49 531 26857868,service@hair-lounge-mitte-20.de,https://www.hair-lounge-mitte-20.de,Hairdresser,"Hauptstraße 137, 38100 Braunschweig",Braunschweig,38100
+Salon Braunschweig,+49 531 73522207,termin@salon-braunschweig.de,https://www.salon-braunschweig.de,Hairdresser,"Berliner Straße 136, 38112 Braunschweig",Braunschweig,38112
+Salon City 41,+49 531 77467856,kontakt@salon-city-41.de,https://www.salon-city-41.de,Barber,"Kölner Straße 25, 38100 Braunschweig",Braunschweig,38100
+Salon Mitte 47,+49 531 66770255,salon-mitte-47@outlook.de,https://www.salon-mitte-47.de,Hairdresser,"Kirchstraße 65, 38112 Braunschweig",Braunschweig,38112
+Schnitt & Style 26,+49 531 62406575,service@schnitt--style-26.de,,Hairdresser,"Berliner Straße 123, 38114 Braunschweig",Braunschweig,38114
+Schnitt & Style 85,+49 531 53225791,info@schnitt--style-85.de,https://www.schnitt--style-85.de,Barber,"Königstraße 126, 38110 Braunschweig",Braunschweig,38110
+Barber Bremen,+49 421 58344545,barber-bremen@web.de,https://www.barber-bremen.de,Hairdresser,"Bahnhofstraße 136, 28197 Bremen",Bremen,28197
+Barbier City 14,+49 421 11295800,termin@barbier-city-14.de,https://www.barbier-city-14.de,Hairdresser,"Berliner Straße 82, 28197 Bremen",Bremen,28197
+Beauty Salon 7,+49 421 31897403,beauty-salon-7@t-online.de,https://www.beauty-salon-7.de,Barber,"Kölner Straße 28, 28201 Bremen",Bremen,28201
+Beauty Salon 82,+49 421 69794902,termin@beauty-salon-82.de,https://www.beauty-salon-82.de,Barber,"Friedrichstraße 31, 28197 Bremen",Bremen,28197
+Damenfriseur Bremen,+49 421 59567104,termin@damenfriseur-bremen.de,https://www.damenfriseur-bremen.de,Barber,"Marktplatz 86, 28201 Bremen",Bremen,28201
+Damenfriseur Bremen 62,+49 421 59416835,damenfriseur-bremen-62@web.de,https://www.damenfriseur-bremen-62.de,Hairdresser,"Lindenstraße 122, 28201 Bremen",Bremen,28201
+Friseur Bremen,+49 421 98920004,salon@friseur-bremen.de,,Hairdresser,"Kaiserstraße 96, 28199 Bremen",Bremen,28199
+Friseur Mitte 32,+49 421 66165062,salon@friseur-mitte-32.de,https://www.friseur-mitte-32.de,Hairdresser,"Bahnhofstraße 44, 28201 Bremen",Bremen,28201
+Friseursalon Bremen,+49 421 31365744,friseursalon-bremen@gmx.de,,Hairdresser,"Berliner Straße 124, 28203 Bremen",Bremen,28203
+Friseursalon Bremen 72,+49 421 20341949,kontakt@friseursalon-bremen-72.de,https://www.friseursalon-bremen-72.de,Barber,"Hauptstraße 55, 28201 Bremen",Bremen,28201
+Haarsalon Mitte 31,+49 421 25131445,kontakt@haarsalon-mitte-31.de,https://www.haarsalon-mitte-31.de,Barber,"Berliner Straße 98, 28199 Bremen",Bremen,28199
+Haarstudio Bremen,+49 421 91357391,termin@haarstudio-bremen.de,https://www.haarstudio-bremen.de,Hairdresser,"Kaiserstraße 99, 28199 Bremen",Bremen,28199
+Haarstudio Mitte 33,+49 421 51666474,termin@haarstudio-mitte-33.de,https://www.haarstudio-mitte-33.de,Hairdresser,"Münchner Straße 30, 28207 Bremen",Bremen,28207
+Hair & Beauty Mitte,+49 421 60807776,info@hair--beauty-mitte.de,,Hairdresser,"Goethestraße 110, 28199 Bremen",Bremen,28199
+Hair Lounge City 4,+49 421 77180276,termin@hair-lounge-city-4.de,https://www.hair-lounge-city-4.de,Hairdresser,"Kirchstraße 81, 28203 Bremen",Bremen,28203
+Hair Lounge Mitte 1,+49 421 14351008,info@hair-lounge-mitte-1.de,https://www.hair-lounge-mitte-1.de,Hairdresser,"Kirchstraße 117, 28205 Bremen",Bremen,28205
+Schnitt & Style Bremen,+49 421 33121711,schnitt--style-bremen@outlook.de,https://www.schnitt--style-bremen.de,Hairdresser,"Münchner Straße 44, 28209 Bremen",Bremen,28209
+Schnitt & Style Bremen 60,+49 421 36798804,schnitt--style-bremen-60@outlook.de,https://www.schnitt--style-bremen-60.de,Hairdresser,"Lindenstraße 83, 28195 Bremen",Bremen,28195
+Schnitt & Style City 58,+49 421 17601201,info@schnitt--style-city-58.de,https://www.schnitt--style-city-58.de,Hairdresser,"Kölner Straße 116, 28209 Bremen",Bremen,28209
+Schnitt & Style Mitte 24,+49 421 74618251,service@schnitt--style-mitte-24.de,https://www.schnitt--style-mitte-24.de,Barber,"Kölner Straße 49, 28209 Bremen",Bremen,28209
+Schnitt & Style Zentrum 35,+49 421 87788321,schnitt--style-zentrum-35@gmail.com,https://www.schnitt--style-zentrum-35.de,Hairdresser,"Kirchstraße 48, 28205 Bremen",Bremen,28205
+Style Studio City 87,+49 421 75524577,style-studio-city-87@gmail.com,,Barber,"Hamburger Straße 141, 28195 Bremen",Bremen,28195
+Barber Chemnitz,+49 371 33491553,termin@barber-chemnitz.de,https://www.barber-chemnitz.de,Hairdresser,"Schillerstraße 64, 09120 Chemnitz",Chemnitz,09120
+Barbier Chemnitz,+49 371 85508292,salon@barbier-chemnitz.de,https://www.barbier-chemnitz.de,Hairdresser,"Kölner Straße 84, 09114 Chemnitz",Chemnitz,09114
+Coiffeur City 36,+49 371 61454782,kontakt@coiffeur-city-36.de,,Hairdresser,"Berliner Straße 79, 09117 Chemnitz",Chemnitz,09117
+Friseur Zentrum 92,+49 371 47536158,salon@friseur-zentrum-92.de,https://www.friseur-zentrum-92.de,Barber,"Bahnhofstraße 83, 09117 Chemnitz",Chemnitz,09117
+Frisör Chemnitz,+49 371 82191720,termin@frisr-chemnitz.de,https://www.frisr-chemnitz.de,Hairdresser,"Marktplatz 93, 09111 Chemnitz",Chemnitz,09111
+Haar Atelier 73,+49 371 57030955,haar-atelier-73@gmail.com,https://www.haar-atelier-73.de,Hairdresser,"Berliner Straße 131, 09113 Chemnitz",Chemnitz,09113
+Haar Atelier Zentrum 1,+49 371 12435458,kontakt@haar-atelier-zentrum-1.de,https://www.haar-atelier-zentrum-1.de,Hairdresser,"Friedrichstraße 7, 09116 Chemnitz",Chemnitz,09116
+Haarsalon 15,+49 371 11608631,info@haarsalon-15.de,https://www.haarsalon-15.de,Hairdresser,"Hauptstraße 87, 09112 Chemnitz",Chemnitz,09112
+Haarsalon 81,+49 371 43494517,salon@haarsalon-81.de,,Barber,"Hamburger Straße 131, 09113 Chemnitz",Chemnitz,09113
+Haarstudio City 60,+49 371 32043346,salon@haarstudio-city-60.de,,Hairdresser,"Bahnhofstraße 133, 09114 Chemnitz",Chemnitz,09114
+Haarwerk Mitte 68,+49 371 18809192,salon@haarwerk-mitte-68.de,,Hairdresser,"Schillerstraße 73, 09112 Chemnitz",Chemnitz,09112
+Hair Lounge Mitte 22,+49 371 36321064,hair-lounge-mitte-22@web.de,https://www.hair-lounge-mitte-22.de,Hairdresser,"Marktplatz 38, 09114 Chemnitz",Chemnitz,09114
+Herrenfriseur Chemnitz,+49 371 60009272,herrenfriseur-chemnitz@gmail.com,https://www.herrenfriseur-chemnitz.de,Hairdresser,"Goethestraße 47, 09120 Chemnitz",Chemnitz,09120
+Salon,+49 371 17333849,salon@gmx.de,https://www.salon.de,Hairdresser,"Goethestraße 69, 09116 Chemnitz",Chemnitz,09116
+Barber Shop Dortmund,+49 231 24913764,barber-shop-dortmund@gmx.de,,Barber,"Kaiserstraße 144, 44141 Dortmund",Dortmund,44141
+Barber Shop Zentrum 40,+49 231 45835017,salon@barber-shop-zentrum-40.de,https://www.barber-shop-zentrum-40.de,Hairdresser,"Friedrichstraße 109, 44145 Dortmund",Dortmund,44145
+Beauty Salon Zentrum 1,+49 231 36662056,beauty-salon-zentrum-1@gmail.com,https://www.beauty-salon-zentrum-1.de,Barber,"Kaiserstraße 147, 44145 Dortmund",Dortmund,44145
+Friseur City 55,+49 231 58905688,kontakt@friseur-city-55.de,https://www.friseur-city-55.de,Barber,"Friedrichstraße 98, 44141 Dortmund",Dortmund,44141
+Friseursalon Dortmund,+49 231 70653984,info@friseursalon-dortmund.de,https://www.friseursalon-dortmund.de,Hairdresser,"Kaiserstraße 115, 44139 Dortmund",Dortmund,44139
+Haarsalon Mitte 69,+49 231 21460287,termin@haarsalon-mitte-69.de,https://www.haarsalon-mitte-69.de,Barber,"Lindenstraße 121, 44139 Dortmund",Dortmund,44139
+Haarstudio,+49 231 43341053,kontakt@haarstudio.de,https://www.haarstudio.de,Barber,"Kirchstraße 32, 44143 Dortmund",Dortmund,44143
+Haarstudio 58,+49 231 42651514,haarstudio-58@gmail.com,https://www.haarstudio-58.de,Hairdresser,"Hamburger Straße 84, 44145 Dortmund",Dortmund,44145
+Haarwerk Dortmund,+49 231 18865496,haarwerk-dortmund@web.de,https://www.haarwerk-dortmund.de,Barber,"Marktplatz 33, 44135 Dortmund",Dortmund,44135
+Haarwerk Dortmund 1,+49 231 59523877,salon@haarwerk-dortmund-1.de,https://www.haarwerk-dortmund-1.de,Hairdresser,"Münchner Straße 75, 44137 Dortmund",Dortmund,44137
+Haarwerk Zentrum 58,+49 231 42747938,info@haarwerk-zentrum-58.de,https://www.haarwerk-zentrum-58.de,Hairdresser,"Lindenstraße 33, 44149 Dortmund",Dortmund,44149
+Hair & Beauty Dortmund,+49 231 35918608,info@hair--beauty-dortmund.de,https://www.hair--beauty-dortmund.de,Hairdresser,"Goethestraße 33, 44141 Dortmund",Dortmund,44141
+Hair Design Dortmund,+49 231 42905257,salon@hair-design-dortmund.de,https://www.hair-design-dortmund.de,Hairdresser,"Kirchstraße 33, 44145 Dortmund",Dortmund,44145
+Hair Design Dortmund 18,+49 231 95843989,info@hair-design-dortmund-18.de,https://www.hair-design-dortmund-18.de,Barber,"Hamburger Straße 82, 44135 Dortmund",Dortmund,44135
+Hair Lounge Mitte,+49 231 58074820,hair-lounge-mitte@outlook.de,,Barber,"Berliner Straße 129, 44141 Dortmund",Dortmund,44141
+Hair Lounge Zentrum,+49 231 63562269,hair-lounge-zentrum@t-online.de,https://www.hair-lounge-zentrum.de,Barber,"Hamburger Straße 64, 44149 Dortmund",Dortmund,44149
+Hair Lounge Zentrum 72,+49 231 43365900,hair-lounge-zentrum-72@t-online.de,https://www.hair-lounge-zentrum-72.de,Hairdresser,"Königstraße 72, 44147 Dortmund",Dortmund,44147
+Herrenfriseur Zentrum,+49 231 17574217,herrenfriseur-zentrum@t-online.de,https://www.herrenfriseur-zentrum.de,Hairdresser,"Königstraße 51, 44149 Dortmund",Dortmund,44149
+Salon Zentrum,+49 231 22085944,salon@salon-zentrum.de,,Hairdresser,"Marktplatz 54, 44143 Dortmund",Dortmund,44143
+Schnitt & Style Dortmund,+49 231 68777676,termin@schnitt--style-dortmund.de,https://www.schnitt--style-dortmund.de,Hairdresser,"Bahnhofstraße 3, 44139 Dortmund",Dortmund,44139
+Style Studio Dortmund,+49 231 24486764,info@style-studio-dortmund.de,https://www.style-studio-dortmund.de,Hairdresser,"Kirchstraße 144, 44141 Dortmund",Dortmund,44141
+Style Studio Mitte 95,+49 231 51580904,info@style-studio-mitte-95.de,https://www.style-studio-mitte-95.de,Barber,"Bahnhofstraße 8, 44137 Dortmund",Dortmund,44137
+Barber 66,+49 351 36023256,kontakt@barber-66.de,https://www.barber-66.de,Hairdresser,"Hauptstraße 46, 01129 Dresden",Dresden,01129
+Barber City 23,+49 351 15306672,salon@barber-city-23.de,https://www.barber-city-23.de,Hairdresser,"Kirchstraße 4, 01097 Dresden",Dresden,01097
+Coiffeur 68,+49 351 51709355,salon@coiffeur-68.de,https://www.coiffeur-68.de,Hairdresser,"Goethestraße 116, 01099 Dresden",Dresden,01099
+Friseursalon Zentrum 43,+49 351 15564649,kontakt@friseursalon-zentrum-43.de,https://www.friseursalon-zentrum-43.de,Hairdresser,"Hauptstraße 50, 01129 Dresden",Dresden,01129
+Frisör Zentrum 54,+49 351 92236023,info@frisr-zentrum-54.de,https://www.frisr-zentrum-54.de,Barber,"Friedrichstraße 82, 01139 Dresden",Dresden,01139
+Gentlemen's Cut Dresden,+49 351 77313172,kontakt@gentlemens-cut-dresden.de,,Hairdresser,"Friedrichstraße 37, 01067 Dresden",Dresden,01067
+Haarsalon 39,+49 351 11853824,haarsalon-39@web.de,https://www.haarsalon-39.de,Hairdresser,"Hauptstraße 39, 01067 Dresden",Dresden,01067
+Haarsalon 4,+49 351 31031849,info@haarsalon-4.de,https://www.haarsalon-4.de,Hairdresser,"Kirchstraße 148, 01139 Dresden",Dresden,01139
+Haarsalon Zentrum 60,+49 351 97881318,haarsalon-zentrum-60@gmx.de,https://www.haarsalon-zentrum-60.de,Barber,"Königstraße 1, 01139 Dresden",Dresden,01139
+Haarstudio Mitte 46,+49 351 39422535,haarstudio-mitte-46@gmail.com,https://www.haarstudio-mitte-46.de,Barber,"Kaiserstraße 149, 01129 Dresden",Dresden,01129
+Haarstudio Mitte 47,+49 351 10150737,termin@haarstudio-mitte-47.de,https://www.haarstudio-mitte-47.de,Hairdresser,"Marktplatz 114, 01067 Dresden",Dresden,01067
+Haarwerk Dresden,+49 351 56470602,service@haarwerk-dresden.de,https://www.haarwerk-dresden.de,Hairdresser,"Friedrichstraße 79, 01139 Dresden",Dresden,01139
+Hair & Beauty Zentrum 97,+49 351 23732600,hair--beauty-zentrum-97@gmail.com,https://www.hair--beauty-zentrum-97.de,Hairdresser,"Münchner Straße 110, 01069 Dresden",Dresden,01069
+Hair Design City 3,+49 351 41601552,salon@hair-design-city-3.de,https://www.hair-design-city-3.de,Hairdresser,"Münchner Straße 123, 01069 Dresden",Dresden,01069
+Hair Design Dresden,+49 351 89396488,info@hair-design-dresden.de,https://www.hair-design-dresden.de,Hairdresser,"Kirchstraße 28, 01127 Dresden",Dresden,01127
+Hair Lounge City 59,+49 351 14173722,service@hair-lounge-city-59.de,https://www.hair-lounge-city-59.de,Hairdresser,"Münchner Straße 89, 01109 Dresden",Dresden,01109
+Herrenfriseur Zentrum 35,+49 351 56668207,termin@herrenfriseur-zentrum-35.de,https://www.herrenfriseur-zentrum-35.de,Hairdresser,"Münchner Straße 27, 01069 Dresden",Dresden,01069
+Style Studio City 89,+49 351 36695571,kontakt@style-studio-city-89.de,https://www.style-studio-city-89.de,Hairdresser,"Kirchstraße 73, 01109 Dresden",Dresden,01109
+Barber Duisburg,+49 203 69254597,kontakt@barber-duisburg.de,https://www.barber-duisburg.de,Barber,"Hamburger Straße 121, 47053 Duisburg",Duisburg,47053
+Barber Duisburg 14,+49 203 60519195,barber-duisburg-14@gmail.com,https://www.barber-duisburg-14.de,Hairdresser,"Berliner Straße 35, 47057 Duisburg",Duisburg,47057
+Barber Duisburg 64,+49 203 56470920,termin@barber-duisburg-64.de,https://www.barber-duisburg-64.de,Hairdresser,"Friedrichstraße 143, 47055 Duisburg",Duisburg,47055
+Barber Mitte,+49 203 43870052,salon@barber-mitte.de,https://www.barber-mitte.de,Hairdresser,"Kölner Straße 53, 47059 Duisburg",Duisburg,47059
+Barber Mitte 38,+49 203 30256836,barber-mitte-38@gmx.de,https://www.barber-mitte-38.de,Hairdresser,"Marktplatz 7, 47058 Duisburg",Duisburg,47058
+Barber Shop Zentrum 84,+49 203 79472025,barber-shop-zentrum-84@web.de,,Barber,"Schillerstraße 118, 47137 Duisburg",Duisburg,47137
+Barber Zentrum,+49 203 80161173,barber-zentrum@gmail.com,https://www.barber-zentrum.de,Hairdresser,"Friedrichstraße 67, 47059 Duisburg",Duisburg,47059
+Beauty Salon Mitte 24,+49 203 55861762,salon@beauty-salon-mitte-24.de,https://www.beauty-salon-mitte-24.de,Hairdresser,"Königstraße 17, 47057 Duisburg",Duisburg,47057
+Damenfriseur City 49,+49 203 94793416,service@damenfriseur-city-49.de,https://www.damenfriseur-city-49.de,Hairdresser,"Hamburger Straße 100, 47057 Duisburg",Duisburg,47057
+Damenfriseur Zentrum 16,+49 203 68214707,damenfriseur-zentrum-16@web.de,https://www.damenfriseur-zentrum-16.de,Hairdresser,"Kaiserstraße 86, 47055 Duisburg",Duisburg,47055
+Friseur 23,+49 203 37648061,friseur-23@gmail.com,https://www.friseur-23.de,Barber,"Friedrichstraße 120, 47051 Duisburg",Duisburg,47051
+Friseur 53,+49 203 46812961,friseur-53@outlook.de,,Barber,"Königstraße 22, 47053 Duisburg",Duisburg,47053
+Friseursalon 81,+49 203 50538522,salon@friseursalon-81.de,https://www.friseursalon-81.de,Barber,"Münchner Straße 50, 47055 Duisburg",Duisburg,47055
+Frisör 66,+49 203 25796572,service@frisr-66.de,https://www.frisr-66.de,Barber,"Kölner Straße 12, 47137 Duisburg",Duisburg,47137
+Haar Atelier Duisburg,+49 203 61431604,haar-atelier-duisburg@t-online.de,https://www.haar-atelier-duisburg.de,Hairdresser,"Goethestraße 137, 47057 Duisburg",Duisburg,47057
+Haar Atelier Zentrum,+49 203 59675156,salon@haar-atelier-zentrum.de,https://www.haar-atelier-zentrum.de,Hairdresser,"Kaiserstraße 15, 47057 Duisburg",Duisburg,47057
+Haarsalon Duisburg,+49 203 18653646,info@haarsalon-duisburg.de,https://www.haarsalon-duisburg.de,Hairdresser,"Berliner Straße 4, 47055 Duisburg",Duisburg,47055
+Haarstudio Duisburg,+49 203 66651915,salon@haarstudio-duisburg.de,https://www.haarstudio-duisburg.de,Hairdresser,"Kölner Straße 45, 47058 Duisburg",Duisburg,47058
+Haarstudio Duisburg 55,+49 203 94078268,salon@haarstudio-duisburg-55.de,https://www.haarstudio-duisburg-55.de,Barber,"Kirchstraße 137, 47137 Duisburg",Duisburg,47137
+Haarwerk Zentrum 51,+49 203 80377668,haarwerk-zentrum-51@t-online.de,https://www.haarwerk-zentrum-51.de,Barber,"Berliner Straße 99, 47119 Duisburg",Duisburg,47119
+Haarwerk Zentrum 65,+49 203 35023882,haarwerk-zentrum-65@t-online.de,https://www.haarwerk-zentrum-65.de,Barber,"Friedrichstraße 129, 47137 Duisburg",Duisburg,47137
+Hair & Beauty 5,+49 203 24581154,info@hair--beauty-5.de,https://www.hair--beauty-5.de,Hairdresser,"Lindenstraße 48, 47058 Duisburg",Duisburg,47058
+Hair Design Zentrum 7,+49 203 75054369,hair-design-zentrum-7@gmx.de,https://www.hair-design-zentrum-7.de,Hairdresser,"Goethestraße 50, 47058 Duisburg",Duisburg,47058
+Hair Lounge City 41,+49 203 29146674,hair-lounge-city-41@gmx.de,https://www.hair-lounge-city-41.de,Barber,"Bahnhofstraße 145, 47051 Duisburg",Duisburg,47051
+Hair Lounge Duisburg,+49 203 13045174,hair-lounge-duisburg@gmx.de,https://www.hair-lounge-duisburg.de,Hairdresser,"Kirchstraße 52, 47057 Duisburg",Duisburg,47057
+Barber,+49 211 46523784,termin@barber.de,https://www.barber.de,Barber,"Kaiserstraße 42, 40210 Düsseldorf",Düsseldorf,40210
+Barber Düsseldorf,+49 211 53372276,barber-dsseldorf@gmx.de,,Barber,"Schillerstraße 78, 40215 Düsseldorf",Düsseldorf,40215
+Barber Shop 96,+49 211 89361432,barber-shop-96@outlook.de,https://www.barber-shop-96.de,Hairdresser,"Goethestraße 93, 40213 Düsseldorf",Düsseldorf,40213
+Beauty Salon Düsseldorf,+49 211 53566232,kontakt@beauty-salon-dsseldorf.de,https://www.beauty-salon-dsseldorf.de,Hairdresser,"Berliner Straße 66, 40219 Düsseldorf",Düsseldorf,40219
+Beauty Salon Zentrum,+49 211 28830479,beauty-salon-zentrum@web.de,https://www.beauty-salon-zentrum.de,Hairdresser,"Schillerstraße 5, 40215 Düsseldorf",Düsseldorf,40215
+Coiffeur 79,+49 211 77442442,coiffeur-79@web.de,https://www.coiffeur-79.de,Hairdresser,"Schillerstraße 144, 40211 Düsseldorf",Düsseldorf,40211
+Damenfriseur City 85,+49 211 15013582,damenfriseur-city-85@gmail.com,https://www.damenfriseur-city-85.de,Hairdresser,"Berliner Straße 106, 40215 Düsseldorf",Düsseldorf,40215
+Damenfriseur City 99,+49 211 24252403,service@damenfriseur-city-99.de,,Hairdresser,"Berliner Straße 81, 40212 Düsseldorf",Düsseldorf,40212
+Friseursalon City 22,+49 211 89715075,friseursalon-city-22@t-online.de,https://www.friseursalon-city-22.de,Hairdresser,"Friedrichstraße 39, 40213 Düsseldorf",Düsseldorf,40213
+Frisör Zentrum,+49 211 79711498,frisr-zentrum@web.de,https://www.frisr-zentrum.de,Hairdresser,"Kaiserstraße 73, 40212 Düsseldorf",Düsseldorf,40212
+Haarstudio Mitte,+49 211 26764371,haarstudio-mitte@outlook.de,,Barber,"Königstraße 140, 40212 Düsseldorf",Düsseldorf,40212
+Haarwerk Düsseldorf,+49 211 53214229,haarwerk-dsseldorf@gmx.de,https://www.haarwerk-dsseldorf.de,Barber,"Königstraße 43, 40221 Düsseldorf",Düsseldorf,40221
+Hair & Beauty City 24,+49 211 37807825,info@hair--beauty-city-24.de,https://www.hair--beauty-city-24.de,Hairdresser,"Friedrichstraße 79, 40217 Düsseldorf",Düsseldorf,40217
+Hair & Beauty Zentrum 72,+49 211 89229274,termin@hair--beauty-zentrum-72.de,https://www.hair--beauty-zentrum-72.de,Hairdresser,"Münchner Straße 142, 40212 Düsseldorf",Düsseldorf,40212
+Hair Design City 56,+49 211 87346508,info@hair-design-city-56.de,https://www.hair-design-city-56.de,Hairdresser,"Kölner Straße 89, 40221 Düsseldorf",Düsseldorf,40221
+Hair Lounge,+49 211 56748471,termin@hair-lounge.de,https://www.hair-lounge.de,Hairdresser,"Kirchstraße 84, 40210 Düsseldorf",Düsseldorf,40210
+Hair Lounge City,+49 211 63866944,salon@hair-lounge-city.de,,Hairdresser,"Kölner Straße 65, 40217 Düsseldorf",Düsseldorf,40217
+Herrenfriseur 74,+49 211 93348801,info@herrenfriseur-74.de,https://www.herrenfriseur-74.de,Hairdresser,"Münchner Straße 42, 40212 Düsseldorf",Düsseldorf,40212
+Schnitt & Style Düsseldorf,+49 211 56352543,service@schnitt--style-dsseldorf.de,https://www.schnitt--style-dsseldorf.de,Barber,"Königstraße 68, 40215 Düsseldorf",Düsseldorf,40215
+Schnitt & Style Düsseldorf 79,+49 211 41703598,schnitt--style-dsseldorf-79@gmail.com,https://www.schnitt--style-dsseldorf-79.de,Hairdresser,"Marktplatz 77, 40210 Düsseldorf",Düsseldorf,40210
+Style Studio Zentrum,+49 211 73187320,style-studio-zentrum@gmail.com,https://www.style-studio-zentrum.de,Hairdresser,"Lindenstraße 60, 40212 Düsseldorf",Düsseldorf,40212
+Style Studio Zentrum 36,+49 211 54428682,service@style-studio-zentrum-36.de,https://www.style-studio-zentrum-36.de,Hairdresser,"Hamburger Straße 45, 40210 Düsseldorf",Düsseldorf,40210
+Barber Shop City 23,+49 361 67018342,barber-shop-city-23@gmx.de,,Hairdresser,"Hamburger Straße 97, 99087 Erfurt",Erfurt,99087
+Beauty Salon City 20,+49 361 26142544,termin@beauty-salon-city-20.de,https://www.beauty-salon-city-20.de,Hairdresser,"Goethestraße 71, 99090 Erfurt",Erfurt,99090
+Beauty Salon Erfurt,+49 361 57816304,termin@beauty-salon-erfurt.de,https://www.beauty-salon-erfurt.de,Hairdresser,"Berliner Straße 109, 99087 Erfurt",Erfurt,99087
+Coiffeur Mitte 97,+49 361 95345955,info@coiffeur-mitte-97.de,https://www.coiffeur-mitte-97.de,Hairdresser,"Hamburger Straße 127, 99085 Erfurt",Erfurt,99085
+Friseur Erfurt,+49 361 27945879,kontakt@friseur-erfurt.de,,Hairdresser,"Kaiserstraße 116, 99084 Erfurt",Erfurt,99084
+Friseur Erfurt 29,+49 361 26081211,info@friseur-erfurt-29.de,,Hairdresser,"Friedrichstraße 90, 99090 Erfurt",Erfurt,99090
+Friseursalon Zentrum 70,+49 361 39171373,termin@friseursalon-zentrum-70.de,https://www.friseursalon-zentrum-70.de,Hairdresser,"Hamburger Straße 15, 99091 Erfurt",Erfurt,99091
+Frisör Erfurt,+49 361 47983443,service@frisr-erfurt.de,,Hairdresser,"Kaiserstraße 58, 99092 Erfurt",Erfurt,99092
+Gentlemen's Cut Erfurt,+49 361 72945460,termin@gentlemens-cut-erfurt.de,,Barber,"Königstraße 19, 99087 Erfurt",Erfurt,99087
+Gentlemen's Cut Erfurt 34,+49 361 11980482,kontakt@gentlemens-cut-erfurt-34.de,https://www.gentlemens-cut-erfurt-34.de,Barber,"Kaiserstraße 124, 99087 Erfurt",Erfurt,99087
+Haar Atelier Zentrum 83,+49 361 46502083,info@haar-atelier-zentrum-83.de,https://www.haar-atelier-zentrum-83.de,Hairdresser,"Schillerstraße 84, 99087 Erfurt",Erfurt,99087
+Haarsalon Erfurt,+49 361 66770687,termin@haarsalon-erfurt.de,https://www.haarsalon-erfurt.de,Hairdresser,"Hamburger Straße 129, 99089 Erfurt",Erfurt,99089
+Haarsalon Zentrum 3,+49 361 28438664,kontakt@haarsalon-zentrum-3.de,https://www.haarsalon-zentrum-3.de,Hairdresser,"Königstraße 23, 99087 Erfurt",Erfurt,99087
+Haarstudio Erfurt,+49 361 94550088,salon@haarstudio-erfurt.de,,Hairdresser,"Bahnhofstraße 4, 99092 Erfurt",Erfurt,99092
+Haarwerk 24,+49 361 99860652,service@haarwerk-24.de,https://www.haarwerk-24.de,Hairdresser,"Münchner Straße 7, 99087 Erfurt",Erfurt,99087
+Hair Lounge City 86,+49 361 81053232,salon@hair-lounge-city-86.de,https://www.hair-lounge-city-86.de,Barber,"Münchner Straße 39, 99085 Erfurt",Erfurt,99085
+Hair Lounge Mitte 69,+49 361 71705895,hair-lounge-mitte-69@gmx.de,https://www.hair-lounge-mitte-69.de,Hairdresser,"Marktplatz 149, 99091 Erfurt",Erfurt,99091
+Style Studio 27,+49 361 83716049,salon@style-studio-27.de,https://www.style-studio-27.de,Barber,"Hamburger Straße 68, 99087 Erfurt",Erfurt,99087
+Style Studio Erfurt,+49 361 49033875,salon@style-studio-erfurt.de,https://www.style-studio-erfurt.de,Hairdresser,"Lindenstraße 17, 99090 Erfurt",Erfurt,99090
+Style Studio Zentrum 13,+49 361 73406739,termin@style-studio-zentrum-13.de,https://www.style-studio-zentrum-13.de,Barber,"Königstraße 56, 99087 Erfurt",Erfurt,99087
+Style Studio Zentrum 79,+49 361 42604366,info@style-studio-zentrum-79.de,,Barber,"Hamburger Straße 82, 99086 Erfurt",Erfurt,99086
+Barber 82,+49 201 51854080,info@barber-82.de,https://www.barber-82.de,Hairdresser,"Marktplatz 78, 45131 Essen",Essen,45131
+Barber City,+49 201 79731288,info@barber-city.de,https://www.barber-city.de,Barber,"Goethestraße 76, 45128 Essen",Essen,45128
+Barber Shop Mitte,+49 201 12148070,info@barber-shop-mitte.de,,Barber,"Kirchstraße 143, 45138 Essen",Essen,45138
+Barbier City 71,+49 201 25616361,info@barbier-city-71.de,,Hairdresser,"Münchner Straße 38, 45130 Essen",Essen,45130
+Beauty Salon City 28,+49 201 34936292,termin@beauty-salon-city-28.de,,Hairdresser,"Friedrichstraße 69, 45134 Essen",Essen,45134
+Beauty Salon Essen,+49 201 33504578,termin@beauty-salon-essen.de,https://www.beauty-salon-essen.de,Hairdresser,"Friedrichstraße 122, 45133 Essen",Essen,45133
+Coiffeur Essen,+49 201 59960174,termin@coiffeur-essen.de,,Barber,"Berliner Straße 123, 45133 Essen",Essen,45133
+Coiffeur Essen 12,+49 201 50213793,salon@coiffeur-essen-12.de,https://www.coiffeur-essen-12.de,Hairdresser,"Kaiserstraße 83, 45127 Essen",Essen,45127
+Coiffeur Mitte 24,+49 201 39056032,service@coiffeur-mitte-24.de,https://www.coiffeur-mitte-24.de,Barber,"Berliner Straße 117, 45131 Essen",Essen,45131
+Friseursalon City 49,+49 201 60514065,kontakt@friseursalon-city-49.de,https://www.friseursalon-city-49.de,Barber,"Hauptstraße 78, 45133 Essen",Essen,45133
+Frisör Essen,+49 201 91735086,service@frisr-essen.de,https://www.frisr-essen.de,Barber,"Königstraße 81, 45130 Essen",Essen,45130
+Gentlemen's Cut Mitte 51,+49 201 54247323,kontakt@gentlemens-cut-mitte-51.de,https://www.gentlemens-cut-mitte-51.de,Barber,"Königstraße 104, 45127 Essen",Essen,45127
+Haar Atelier City,+49 201 12337265,kontakt@haar-atelier-city.de,,Hairdresser,"Münchner Straße 8, 45138 Essen",Essen,45138
+Haar Atelier Essen,+49 201 24703726,salon@haar-atelier-essen.de,https://www.haar-atelier-essen.de,Hairdresser,"Lindenstraße 104, 45131 Essen",Essen,45131
+Haar Atelier Essen 13,+49 201 28219554,haar-atelier-essen-13@gmail.com,https://www.haar-atelier-essen-13.de,Hairdresser,"Friedrichstraße 143, 45128 Essen",Essen,45128
+Haar Atelier Mitte,+49 201 68253989,haar-atelier-mitte@gmx.de,https://www.haar-atelier-mitte.de,Hairdresser,"Münchner Straße 31, 45128 Essen",Essen,45128
+Haarsalon Essen,+49 201 98534034,haarsalon-essen@t-online.de,https://www.haarsalon-essen.de,Hairdresser,"Kölner Straße 3, 45131 Essen",Essen,45131
+Haarsalon Mitte 92,+49 201 78545547,kontakt@haarsalon-mitte-92.de,https://www.haarsalon-mitte-92.de,Barber,"Kirchstraße 75, 45131 Essen",Essen,45131
+Haarstudio City 99,+49 201 25500416,salon@haarstudio-city-99.de,https://www.haarstudio-city-99.de,Barber,"Friedrichstraße 97, 45128 Essen",Essen,45128
+Haarwerk City 21,+49 201 59791120,info@haarwerk-city-21.de,,Hairdresser,"Goethestraße 117, 45128 Essen",Essen,45128
+Haarwerk Essen,+49 201 91979477,service@haarwerk-essen.de,https://www.haarwerk-essen.de,Hairdresser,"Schillerstraße 16, 45131 Essen",Essen,45131
+Hair & Beauty Essen,+49 201 40567025,service@hair--beauty-essen.de,https://www.hair--beauty-essen.de,Hairdresser,"Königstraße 128, 45127 Essen",Essen,45127
+Hair & Beauty Zentrum 9,+49 201 48566161,info@hair--beauty-zentrum-9.de,https://www.hair--beauty-zentrum-9.de,Hairdresser,"Bahnhofstraße 149, 45138 Essen",Essen,45138
+Hair Design Mitte,+49 201 87759685,termin@hair-design-mitte.de,https://www.hair-design-mitte.de,Hairdresser,"Münchner Straße 56, 45133 Essen",Essen,45133
+Schnitt & Style Zentrum 20,+49 201 51301605,salon@schnitt--style-zentrum-20.de,https://www.schnitt--style-zentrum-20.de,Barber,"Hauptstraße 51, 45138 Essen",Essen,45138
+Barber Shop City 58,+49 69 60030287,info@barber-shop-city-58.de,https://www.barber-shop-city-58.de,Barber,"Münchner Straße 148, 60314 Frankfurt am Main",Frankfurt am Main,60314
+Barber Shop Frankfurt am Main,+49 69 69912517,barber-shop-frankfurt-am-main@web.de,,Barber,"Kaiserstraße 44, 60323 Frankfurt am Main",Frankfurt am Main,60323
+Barbier 99,+49 69 24593482,service@barbier-99.de,https://www.barbier-99.de,Hairdresser,"Bahnhofstraße 4, 60320 Frankfurt am Main",Frankfurt am Main,60320
+Coiffeur Mitte 13,+49 69 15810304,coiffeur-mitte-13@gmx.de,https://www.coiffeur-mitte-13.de,Barber,"Kaiserstraße 101, 60311 Frankfurt am Main",Frankfurt am Main,60311
+Damenfriseur 76,+49 69 86990134,service@damenfriseur-76.de,https://www.damenfriseur-76.de,Hairdresser,"Hauptstraße 135, 60314 Frankfurt am Main",Frankfurt am Main,60314
+Damenfriseur Frankfurt am Main,+49 69 77973128,termin@damenfriseur-frankfurt-am-main.de,https://www.damenfriseur-frankfurt-am-main.de,Hairdresser,"Königstraße 140, 60311 Frankfurt am Main",Frankfurt am Main,60311
+Frisör City,+49 69 38473152,kontakt@frisr-city.de,https://www.frisr-city.de,Hairdresser,"Bahnhofstraße 87, 60311 Frankfurt am Main",Frankfurt am Main,60311
+Frisör Mitte 58,+49 69 99626966,salon@frisr-mitte-58.de,https://www.frisr-mitte-58.de,Hairdresser,"Kaiserstraße 97, 60322 Frankfurt am Main",Frankfurt am Main,60322
+Gentlemen's Cut,+49 69 27785987,gentlemens-cut@web.de,https://www.gentlemens-cut.de,Hairdresser,"Kirchstraße 46, 60318 Frankfurt am Main",Frankfurt am Main,60318
+Gentlemen's Cut 68,+49 69 21696524,gentlemens-cut-68@t-online.de,,Hairdresser,"Lindenstraße 27, 60320 Frankfurt am Main",Frankfurt am Main,60320
+Gentlemen's Cut Frankfurt am Main,+49 69 96262902,salon@gentlemens-cut-frankfurt-am-main.de,,Barber,"Kaiserstraße 21, 60313 Frankfurt am Main",Frankfurt am Main,60313
+Gentlemen's Cut Mitte 30,+49 69 13113426,salon@gentlemens-cut-mitte-30.de,https://www.gentlemens-cut-mitte-30.de,Hairdresser,"Goethestraße 109, 60318 Frankfurt am Main",Frankfurt am Main,60318
+Haar Atelier Frankfurt,+49 69 74098260,info@haar-atelier-frankfurt.de,,Hairdresser,"Lindenstraße 21, 60322 Frankfurt am Main",Frankfurt am Main,60322
+Haarsalon Zentrum,+49 69 74704427,haarsalon-zentrum@t-online.de,https://www.haarsalon-zentrum.de,Barber,"Kaiserstraße 67, 60316 Frankfurt am Main",Frankfurt am Main,60316
+Haarstudio Zentrum 25,+49 69 84581072,termin@haarstudio-zentrum-25.de,https://www.haarstudio-zentrum-25.de,Barber,"Friedrichstraße 102, 60323 Frankfurt am Main",Frankfurt am Main,60323
+Hair & Beauty 1,+49 69 76657619,hair--beauty-1@outlook.de,https://www.hair--beauty-1.de,Barber,"Goethestraße 37, 60316 Frankfurt am Main",Frankfurt am Main,60316
+Herrenfriseur,+49 69 42261138,salon@herrenfriseur.de,https://www.herrenfriseur.de,Hairdresser,"Bahnhofstraße 102, 60311 Frankfurt am Main",Frankfurt am Main,60311
+Herrenfriseur City 25,+49 69 90354369,salon@herrenfriseur-city-25.de,https://www.herrenfriseur-city-25.de,Barber,"Hamburger Straße 120, 60318 Frankfurt am Main",Frankfurt am Main,60318
+Schnitt & Style City 81,+49 69 69660657,salon@schnitt--style-city-81.de,https://www.schnitt--style-city-81.de,Hairdresser,"Kölner Straße 148, 60313 Frankfurt am Main",Frankfurt am Main,60313
+Barber Mitte 87,+49 761 48227344,termin@barber-mitte-87.de,https://www.barber-mitte-87.de,Hairdresser,"Kölner Straße 73, 79098 Freiburg",Freiburg,79098
+Barber Shop 86,+49 761 97720530,info@barber-shop-86.de,https://www.barber-shop-86.de,Hairdresser,"Hauptstraße 124, 79106 Freiburg",Freiburg,79106
+Barber Shop City 62,+49 761 33327093,service@barber-shop-city-62.de,,Hairdresser,"Kölner Straße 77, 79102 Freiburg",Freiburg,79102
+Barber Shop Freiburg,+49 761 31474938,termin@barber-shop-freiburg.de,https://www.barber-shop-freiburg.de,Hairdresser,"Friedrichstraße 34, 79104 Freiburg",Freiburg,79104
+Barber Shop Zentrum 9,+49 761 80945037,salon@barber-shop-zentrum-9.de,,Hairdresser,"Marktplatz 132, 79108 Freiburg",Freiburg,79108
+Barbier Mitte 10,+49 761 89147999,kontakt@barbier-mitte-10.de,https://www.barbier-mitte-10.de,Hairdresser,"Kirchstraße 99, 79102 Freiburg",Freiburg,79102
+Beauty Salon Zentrum 62,+49 761 56875075,beauty-salon-zentrum-62@gmx.de,https://www.beauty-salon-zentrum-62.de,Hairdresser,"Friedrichstraße 54, 79102 Freiburg",Freiburg,79102
+Damenfriseur Freiburg,+49 761 41307437,damenfriseur-freiburg@web.de,,Hairdresser,"Hauptstraße 35, 79108 Freiburg",Freiburg,79108
+Hair & Beauty Freiburg,+49 761 77832219,salon@hair--beauty-freiburg.de,https://www.hair--beauty-freiburg.de,Hairdresser,"Königstraße 29, 79106 Freiburg",Freiburg,79106
+Hair Design City 99,+49 761 90986481,termin@hair-design-city-99.de,https://www.hair-design-city-99.de,Hairdresser,"Königstraße 35, 79098 Freiburg",Freiburg,79098
+Hair Design Freiburg,+49 761 49498881,hair-design-freiburg@gmx.de,https://www.hair-design-freiburg.de,Hairdresser,"Berliner Straße 29, 79098 Freiburg",Freiburg,79098
+Hair Lounge Freiburg,+49 761 88768102,hair-lounge-freiburg@gmx.de,https://www.hair-lounge-freiburg.de,Hairdresser,"Kirchstraße 145, 79111 Freiburg",Freiburg,79111
+Herrenfriseur City 17,+49 761 12710584,kontakt@herrenfriseur-city-17.de,https://www.herrenfriseur-city-17.de,Hairdresser,"Kirchstraße 102, 79108 Freiburg",Freiburg,79108
+Herrenfriseur Mitte 25,+49 761 52442215,info@herrenfriseur-mitte-25.de,https://www.herrenfriseur-mitte-25.de,Hairdresser,"Lindenstraße 70, 79102 Freiburg",Freiburg,79102
+Schnitt & Style Freiburg,+49 761 23882277,kontakt@schnitt--style-freiburg.de,,Hairdresser,"Berliner Straße 101, 79106 Freiburg",Freiburg,79106
+Schnitt & Style Zentrum 31,+49 761 16177737,service@schnitt--style-zentrum-31.de,https://www.schnitt--style-zentrum-31.de,Hairdresser,"Bahnhofstraße 88, 79102 Freiburg",Freiburg,79102
+Schnitt & Style Zentrum 8,+49 761 60063695,info@schnitt--style-zentrum-8.de,,Hairdresser,"Hauptstraße 91, 79110 Freiburg",Freiburg,79110
+Style Studio City 11,+49 761 81688449,info@style-studio-city-11.de,https://www.style-studio-city-11.de,Hairdresser,"Kaiserstraße 91, 79106 Freiburg",Freiburg,79106
+Beauty Salon Gelsenkirchen,+49 209 63799537,salon@beauty-salon-gelsenkirchen.de,https://www.beauty-salon-gelsenkirchen.de,Hairdresser,"Goethestraße 90, 45881 Gelsenkirchen",Gelsenkirchen,45881
+Coiffeur Mitte 60,+49 209 76898791,kontakt@coiffeur-mitte-60.de,,Hairdresser,"Kirchstraße 37, 45889 Gelsenkirchen",Gelsenkirchen,45889
+Damenfriseur City 47,+49 209 23496390,info@damenfriseur-city-47.de,https://www.damenfriseur-city-47.de,Hairdresser,"Schillerstraße 69, 45888 Gelsenkirchen",Gelsenkirchen,45888
+Friseursalon Gelsenkirchen,+49 209 29946081,kontakt@friseursalon-gelsenkirchen.de,https://www.friseursalon-gelsenkirchen.de,Hairdresser,"Friedrichstraße 106, 45886 Gelsenkirchen",Gelsenkirchen,45886
+Friseursalon Gelsenkirchen 59,+49 209 71078719,salon@friseursalon-gelsenkirchen-59.de,https://www.friseursalon-gelsenkirchen-59.de,Barber,"Berliner Straße 31, 45889 Gelsenkirchen",Gelsenkirchen,45889
+Friseursalon Mitte 9,+49 209 83516578,friseursalon-mitte-9@web.de,https://www.friseursalon-mitte-9.de,Hairdresser,"Hauptstraße 70, 45883 Gelsenkirchen",Gelsenkirchen,45883
+Frisör 1,+49 209 11725762,termin@frisr-1.de,,Barber,"Hamburger Straße 53, 45879 Gelsenkirchen",Gelsenkirchen,45879
+Haar Atelier City 70,+49 209 65161655,haar-atelier-city-70@outlook.de,https://www.haar-atelier-city-70.de,Hairdresser,"Goethestraße 40, 45889 Gelsenkirchen",Gelsenkirchen,45889
+Haar Atelier Gelsenkirchen,+49 209 88669207,salon@haar-atelier-gelsenkirchen.de,,Barber,"Münchner Straße 58, 45889 Gelsenkirchen",Gelsenkirchen,45889
+Haarstudio 80,+49 209 56260586,haarstudio-80@web.de,https://www.haarstudio-80.de,Barber,"Kölner Straße 38, 45881 Gelsenkirchen",Gelsenkirchen,45881
+Haarstudio Mitte 86,+49 209 45875733,kontakt@haarstudio-mitte-86.de,https://www.haarstudio-mitte-86.de,Hairdresser,"Münchner Straße 127, 45888 Gelsenkirchen",Gelsenkirchen,45888
+Hair Design Zentrum 15,+49 209 26234719,service@hair-design-zentrum-15.de,https://www.hair-design-zentrum-15.de,Hairdresser,"Schillerstraße 125, 45888 Gelsenkirchen",Gelsenkirchen,45888
+Hair Design Zentrum 51,+49 209 61779406,hair-design-zentrum-51@t-online.de,,Hairdresser,"Friedrichstraße 22, 45888 Gelsenkirchen",Gelsenkirchen,45888
+Hair Design Zentrum 9,+49 209 51235398,salon@hair-design-zentrum-9.de,https://www.hair-design-zentrum-9.de,Barber,"Bahnhofstraße 142, 45884 Gelsenkirchen",Gelsenkirchen,45884
+Hair Lounge 16,+49 209 48178272,termin@hair-lounge-16.de,https://www.hair-lounge-16.de,Hairdresser,"Kirchstraße 120, 45884 Gelsenkirchen",Gelsenkirchen,45884
+Hair Lounge City 60,+49 209 74147326,hair-lounge-city-60@outlook.de,https://www.hair-lounge-city-60.de,Hairdresser,"Münchner Straße 12, 45889 Gelsenkirchen",Gelsenkirchen,45889
+Herrenfriseur 25,+49 209 84846231,info@herrenfriseur-25.de,https://www.herrenfriseur-25.de,Hairdresser,"Friedrichstraße 7, 45888 Gelsenkirchen",Gelsenkirchen,45888
+Herrenfriseur Gelsenkirchen,+49 209 92846755,termin@herrenfriseur-gelsenkirchen.de,https://www.herrenfriseur-gelsenkirchen.de,Hairdresser,"Hauptstraße 27, 45881 Gelsenkirchen",Gelsenkirchen,45881
+Salon Gelsenkirchen,+49 209 59448889,salon-gelsenkirchen@gmx.de,https://www.salon-gelsenkirchen.de,Hairdresser,"Hauptstraße 118, 45889 Gelsenkirchen",Gelsenkirchen,45889
+Schnitt & Style Zentrum 42,+49 209 70134053,info@schnitt--style-zentrum-42.de,,Hairdresser,"Hauptstraße 48, 45889 Gelsenkirchen",Gelsenkirchen,45889
+Barber City 77,+49 345 34963285,info@barber-city-77.de,https://www.barber-city-77.de,Hairdresser,"Hamburger Straße 70, 06114 Halle",Halle,06114
+Barber Halle,+49 345 70336187,service@barber-halle.de,https://www.barber-halle.de,Hairdresser,"Marktplatz 74, 06118 Halle",Halle,06118
+Barber Halle 67,+49 345 55388167,barber-halle-67@gmx.de,https://www.barber-halle-67.de,Hairdresser,"Schillerstraße 108, 06114 Halle",Halle,06114
+Coiffeur City 83,+49 345 73464030,coiffeur-city-83@gmail.com,,Hairdresser,"Marktplatz 62, 06120 Halle",Halle,06120
+Coiffeur Mitte 12,+49 345 56775575,coiffeur-mitte-12@gmx.de,,Hairdresser,"Lindenstraße 41, 06122 Halle",Halle,06122
+Coiffeur Mitte 21,+49 345 69907589,info@coiffeur-mitte-21.de,https://www.coiffeur-mitte-21.de,Hairdresser,"Kölner Straße 88, 06110 Halle",Halle,06110
+Friseursalon City 82,+49 345 53698373,service@friseursalon-city-82.de,https://www.friseursalon-city-82.de,Hairdresser,"Lindenstraße 81, 06112 Halle",Halle,06112
+Friseursalon Mitte 2,+49 345 67405795,friseursalon-mitte-2@t-online.de,,Hairdresser,"Kaiserstraße 124, 06110 Halle",Halle,06110
+Frisör Zentrum 32,+49 345 94242239,service@frisr-zentrum-32.de,https://www.frisr-zentrum-32.de,Hairdresser,"Schillerstraße 28, 06112 Halle",Halle,06112
+Haar Atelier City 3,+49 345 60076965,haar-atelier-city-3@gmx.de,https://www.haar-atelier-city-3.de,Hairdresser,"Friedrichstraße 144, 06110 Halle",Halle,06110
+Haar Atelier Mitte 26,+49 345 52611464,salon@haar-atelier-mitte-26.de,,Barber,"Bahnhofstraße 59, 06122 Halle",Halle,06122
+Haarsalon 29,+49 345 73574209,haarsalon-29@web.de,https://www.haarsalon-29.de,Hairdresser,"Bahnhofstraße 1, 06118 Halle",Halle,06118
+Haarsalon Zentrum 77,+49 345 62729364,haarsalon-zentrum-77@outlook.de,https://www.haarsalon-zentrum-77.de,Hairdresser,"Bahnhofstraße 42, 06108 Halle",Halle,06108
+Hair & Beauty Halle,+49 345 30489608,salon@hair--beauty-halle.de,https://www.hair--beauty-halle.de,Barber,"Kirchstraße 128, 06108 Halle",Halle,06108
+Hair Design 44,+49 345 65559462,termin@hair-design-44.de,https://www.hair-design-44.de,Hairdresser,"Kaiserstraße 49, 06112 Halle",Halle,06112
+Hair Design 70,+49 345 14687532,hair-design-70@t-online.de,,Hairdresser,"Goethestraße 70, 06114 Halle",Halle,06114
+Hair Lounge Halle,+49 345 39117549,hair-lounge-halle@outlook.de,https://www.hair-lounge-halle.de,Hairdresser,"Schillerstraße 99, 06112 Halle",Halle,06112
+Hair Lounge Halle 2,+49 345 31546579,info@hair-lounge-halle-2.de,https://www.hair-lounge-halle-2.de,Barber,"Königstraße 108, 06122 Halle",Halle,06122
+Salon 29,+49 345 39081295,info@salon-29.de,https://www.salon-29.de,Barber,"Kirchstraße 65, 06120 Halle",Halle,06120
+Salon City 38,+49 345 16067073,kontakt@salon-city-38.de,https://www.salon-city-38.de,Hairdresser,"Kaiserstraße 27, 06112 Halle",Halle,06112
+Salon Mitte 74,+49 345 32431010,service@salon-mitte-74.de,https://www.salon-mitte-74.de,Barber,"Marktplatz 116, 06116 Halle",Halle,06116
+Schnitt & Style 97,+49 345 74413454,schnitt--style-97@outlook.de,https://www.schnitt--style-97.de,Hairdresser,"Kaiserstraße 50, 06112 Halle",Halle,06112
+Style Studio 99,+49 345 14086200,service@style-studio-99.de,,Hairdresser,"Lindenstraße 141, 06112 Halle",Halle,06112
+Barbier,+49 40 59722549,service@barbier.de,https://www.barbier.de,Barber,"Schillerstraße 42, 20148 Hamburg",Hamburg,20148
+Barbier City 10,+49 40 47729539,info@barbier-city-10.de,https://www.barbier-city-10.de,Barber,"Berliner Straße 142, 20249 Hamburg",Hamburg,20249
+Beauty Salon Hamburg,+49 40 26564361,beauty-salon-hamburg@outlook.de,https://www.beauty-salon-hamburg.de,Barber,"Goethestraße 16, 20099 Hamburg",Hamburg,20099
+Coiffeur Hamburg,+49 40 59712009,service@coiffeur-hamburg.de,https://www.coiffeur-hamburg.de,Barber,"Friedrichstraße 5, 20097 Hamburg",Hamburg,20097
+Coiffeur Mitte,+49 40 30989255,kontakt@coiffeur-mitte.de,https://www.coiffeur-mitte.de,Hairdresser,"Hauptstraße 55, 20146 Hamburg",Hamburg,20146
+Damenfriseur Mitte,+49 40 90099577,damenfriseur-mitte@web.de,https://www.damenfriseur-mitte.de,Barber,"Marktplatz 11, 20144 Hamburg",Hamburg,20144
+Friseur 22,+49 40 12476029,info@friseur-22.de,https://www.friseur-22.de,Barber,"Kölner Straße 66, 20095 Hamburg",Hamburg,20095
+Friseursalon,+49 40 31995279,salon@friseursalon.de,https://www.friseursalon.de,Barber,"Marktplatz 41, 20097 Hamburg",Hamburg,20097
+Friseursalon Hamburg,+49 40 12062954,kontakt@friseursalon-hamburg.de,https://www.friseursalon-hamburg.de,Hairdresser,"Marktplatz 27, 20099 Hamburg",Hamburg,20099
+Haarsalon,+49 40 20253161,salon@haarsalon.de,https://www.haarsalon.de,Hairdresser,"Hauptstraße 17, 20099 Hamburg",Hamburg,20099
+Haarsalon Mitte,+49 40 73643716,salon@haarsalon-mitte.de,https://www.haarsalon-mitte.de,Hairdresser,"Münchner Straße 112, 20149 Hamburg",Hamburg,20149
+Haarstudio City,+49 40 40812946,kontakt@haarstudio-city.de,,Hairdresser,"Kirchstraße 150, 20099 Hamburg",Hamburg,20099
+Haarwerk Zentrum,+49 40 97263356,salon@haarwerk-zentrum.de,https://www.haarwerk-zentrum.de,Hairdresser,"Königstraße 68, 20144 Hamburg",Hamburg,20144
+Hair & Beauty 69,+49 40 87987263,hair--beauty-69@web.de,https://www.hair--beauty-69.de,Hairdresser,"Hamburger Straße 131, 20097 Hamburg",Hamburg,20097
+Hair Design,+49 40 24290673,service@hair-design.de,,Hairdresser,"Hamburger Straße 114, 20149 Hamburg",Hamburg,20149
+Hair Design City,+49 40 83662786,hair-design-city@gmail.com,https://www.hair-design-city.de,Hairdresser,"Kölner Straße 144, 20097 Hamburg",Hamburg,20097
+Herrenfriseur Hamburg,+49 40 94620272,herrenfriseur-hamburg@web.de,https://www.herrenfriseur-hamburg.de,Hairdresser,"Hauptstraße 119, 20148 Hamburg",Hamburg,20148
+Salon Hamburg,+49 40 94984771,info@salon-hamburg.de,https://www.salon-hamburg.de,Hairdresser,"Berliner Straße 147, 20148 Hamburg",Hamburg,20148
+Salon Hamburg 40,+49 40 18310908,salon@salon-hamburg-40.de,https://www.salon-hamburg-40.de,Hairdresser,"Friedrichstraße 94, 20146 Hamburg",Hamburg,20146
+Schnitt & Style City,+49 40 12345263,kontakt@schnitt--style-city.de,https://www.schnitt--style-city.de,Hairdresser,"Hauptstraße 6, 20097 Hamburg",Hamburg,20097
+Schnitt & Style Hamburg,+49 40 68404726,schnitt--style-hamburg@gmx.de,,Hairdresser,"Schillerstraße 10, 20249 Hamburg",Hamburg,20249
+Schnitt & Style Mitte,+49 40 53511057,salon@schnitt--style-mitte.de,,Hairdresser,"Marktplatz 84, 20095 Hamburg",Hamburg,20095
+Schnitt & Style Zentrum,+49 40 40974455,termin@schnitt--style-zentrum.de,https://www.schnitt--style-zentrum.de,Hairdresser,"Kölner Straße 126, 20097 Hamburg",Hamburg,20097
+Style Studio City,+49 40 79169213,salon@style-studio-city.de,https://www.style-studio-city.de,Barber,"Kirchstraße 4, 20097 Hamburg",Hamburg,20097
+Style Studio Mitte,+49 40 57441076,style-studio-mitte@gmx.de,,Hairdresser,"Hamburger Straße 11, 20099 Hamburg",Hamburg,20099
+Barbier Hannover,+49 511 80262709,termin@barbier-hannover.de,https://www.barbier-hannover.de,Hairdresser,"Lindenstraße 62, 30171 Hannover",Hannover,30171
+Beauty Salon City 88,+49 511 51902527,service@beauty-salon-city-88.de,https://www.beauty-salon-city-88.de,Hairdresser,"Kirchstraße 103, 30159 Hannover",Hannover,30159
+Beauty Salon Mitte 1,+49 511 13667194,service@beauty-salon-mitte-1.de,https://www.beauty-salon-mitte-1.de,Hairdresser,"Schillerstraße 139, 30165 Hannover",Hannover,30165
+Coiffeur Hannover,+49 511 48602785,coiffeur-hannover@gmail.com,https://www.coiffeur-hannover.de,Hairdresser,"Lindenstraße 62, 30173 Hannover",Hannover,30173
+Damenfriseur Hannover,+49 511 89869923,damenfriseur-hannover@web.de,,Hairdresser,"Schillerstraße 103, 30161 Hannover",Hannover,30161
+Friseur Hannover,+49 511 54852660,friseur-hannover@gmail.com,https://www.friseur-hannover.de,Hairdresser,"Kölner Straße 2, 30173 Hannover",Hannover,30173
+Haarstudio City 78,+49 511 48797293,info@haarstudio-city-78.de,https://www.haarstudio-city-78.de,Hairdresser,"Friedrichstraße 62, 30159 Hannover",Hannover,30159
+Hair & Beauty City 14,+49 511 66883951,kontakt@hair--beauty-city-14.de,,Hairdresser,"Münchner Straße 48, 30173 Hannover",Hannover,30173
+Hair & Beauty City 39,+49 511 32475438,termin@hair--beauty-city-39.de,,Barber,"Kölner Straße 143, 30167 Hannover",Hannover,30167
+Hair Lounge City 99,+49 511 58627119,service@hair-lounge-city-99.de,https://www.hair-lounge-city-99.de,Hairdresser,"Schillerstraße 108, 30169 Hannover",Hannover,30169
+Hair Lounge Mitte 50,+49 511 16105028,salon@hair-lounge-mitte-50.de,,Hairdresser,"Friedrichstraße 4, 30167 Hannover",Hannover,30167
+Herrenfriseur City 1,+49 511 57277339,salon@herrenfriseur-city-1.de,https://www.herrenfriseur-city-1.de,Hairdresser,"Goethestraße 98, 30159 Hannover",Hannover,30159
+Salon Mitte,+49 511 38336188,salon-mitte@gmail.com,,Barber,"Hamburger Straße 52, 30171 Hannover",Hannover,30171
+Salon Mitte 80,+49 511 45775669,salon-mitte-80@web.de,https://www.salon-mitte-80.de,Hairdresser,"Kaiserstraße 141, 30173 Hannover",Hannover,30173
+Schnitt & Style Hannover,+49 511 75494190,schnitt--style-hannover@t-online.de,https://www.schnitt--style-hannover.de,Barber,"Hauptstraße 116, 30165 Hannover",Hannover,30165
+Barber City 39,+49 721 62827595,barber-city-39@web.de,,Barber,"Bahnhofstraße 95, 76135 Karlsruhe",Karlsruhe,76135
+Barber Karlsruhe,+49 721 35900656,termin@barber-karlsruhe.de,https://www.barber-karlsruhe.de,Hairdresser,"Münchner Straße 9, 76189 Karlsruhe",Karlsruhe,76189
+Barbier City 40,+49 721 40171877,termin@barbier-city-40.de,,Hairdresser,"Berliner Straße 134, 76133 Karlsruhe",Karlsruhe,76133
+Barbier Mitte 98,+49 721 84745199,kontakt@barbier-mitte-98.de,https://www.barbier-mitte-98.de,Hairdresser,"Friedrichstraße 79, 76185 Karlsruhe",Karlsruhe,76185
+Beauty Salon Karlsruhe,+49 721 91517256,beauty-salon-karlsruhe@t-online.de,https://www.beauty-salon-karlsruhe.de,Hairdresser,"Hamburger Straße 18, 76189 Karlsruhe",Karlsruhe,76189
+Coiffeur 17,+49 721 16623085,service@coiffeur-17.de,https://www.coiffeur-17.de,Hairdresser,"Kirchstraße 29, 76139 Karlsruhe",Karlsruhe,76139
+Coiffeur City 57,+49 721 20326675,termin@coiffeur-city-57.de,https://www.coiffeur-city-57.de,Hairdresser,"Bahnhofstraße 67, 76189 Karlsruhe",Karlsruhe,76189
+Coiffeur Zentrum,+49 721 53092525,termin@coiffeur-zentrum.de,https://www.coiffeur-zentrum.de,Hairdresser,"Kölner Straße 58, 76135 Karlsruhe",Karlsruhe,76135
+Friseursalon 54,+49 721 25628454,service@friseursalon-54.de,https://www.friseursalon-54.de,Hairdresser,"Berliner Straße 10, 76135 Karlsruhe",Karlsruhe,76135
+Friseursalon Mitte 81,+49 721 60570030,kontakt@friseursalon-mitte-81.de,,Barber,"Schillerstraße 141, 76189 Karlsruhe",Karlsruhe,76189
+Frisör Mitte 75,+49 721 57481949,kontakt@frisr-mitte-75.de,https://www.frisr-mitte-75.de,Barber,"Berliner Straße 138, 76135 Karlsruhe",Karlsruhe,76135
+Frisör Zentrum 46,+49 721 95978089,kontakt@frisr-zentrum-46.de,https://www.frisr-zentrum-46.de,Hairdresser,"Lindenstraße 21, 76139 Karlsruhe",Karlsruhe,76139
+Gentlemen's Cut 43,+49 721 37420918,termin@gentlemens-cut-43.de,https://www.gentlemens-cut-43.de,Hairdresser,"Lindenstraße 144, 76135 Karlsruhe",Karlsruhe,76135
+Haarstudio City 9,+49 721 47525433,haarstudio-city-9@t-online.de,https://www.haarstudio-city-9.de,Hairdresser,"Marktplatz 118, 76187 Karlsruhe",Karlsruhe,76187
+Hair Design Karlsruhe,+49 721 42106032,termin@hair-design-karlsruhe.de,https://www.hair-design-karlsruhe.de,Hairdresser,"Bahnhofstraße 46, 76185 Karlsruhe",Karlsruhe,76185
+Hair Design Mitte 21,+49 721 99185268,service@hair-design-mitte-21.de,https://www.hair-design-mitte-21.de,Barber,"Schillerstraße 134, 76189 Karlsruhe",Karlsruhe,76189
+Hair Design Zentrum 26,+49 721 48229283,hair-design-zentrum-26@web.de,https://www.hair-design-zentrum-26.de,Hairdresser,"Münchner Straße 69, 76137 Karlsruhe",Karlsruhe,76137
+Herrenfriseur Karlsruhe,+49 721 91999740,herrenfriseur-karlsruhe@outlook.de,https://www.herrenfriseur-karlsruhe.de,Hairdresser,"Bahnhofstraße 65, 76187 Karlsruhe",Karlsruhe,76187
+Herrenfriseur Karlsruhe 49,+49 721 56781924,herrenfriseur-karlsruhe-49@t-online.de,https://www.herrenfriseur-karlsruhe-49.de,Hairdresser,"Königstraße 111, 76137 Karlsruhe",Karlsruhe,76137
+Herrenfriseur Mitte 35,+49 721 50839462,info@herrenfriseur-mitte-35.de,https://www.herrenfriseur-mitte-35.de,Barber,"Münchner Straße 85, 76135 Karlsruhe",Karlsruhe,76135
+Barber Shop City 88,+49 561 66175584,service@barber-shop-city-88.de,https://www.barber-shop-city-88.de,Barber,"Marktplatz 100, 34121 Kassel",Kassel,34121
+Barbier 52,+49 561 23509880,barbier-52@gmx.de,,Hairdresser,"Hamburger Straße 70, 34127 Kassel",Kassel,34127
+Coiffeur 69,+49 561 45533303,coiffeur-69@t-online.de,https://www.coiffeur-69.de,Hairdresser,"Friedrichstraße 31, 34117 Kassel",Kassel,34117
+Coiffeur Mitte 70,+49 561 43282649,coiffeur-mitte-70@web.de,,Hairdresser,"Goethestraße 80, 34119 Kassel",Kassel,34119
+Damenfriseur Kassel,+49 561 32501443,service@damenfriseur-kassel.de,,Hairdresser,"Marktplatz 18, 34125 Kassel",Kassel,34125
+Friseursalon Kassel,+49 561 17193633,friseursalon-kassel@web.de,https://www.friseursalon-kassel.de,Hairdresser,"Kölner Straße 20, 34119 Kassel",Kassel,34119
+Friseursalon Mitte 78,+49 561 19500919,termin@friseursalon-mitte-78.de,https://www.friseursalon-mitte-78.de,Hairdresser,"Hamburger Straße 35, 34129 Kassel",Kassel,34129
+Frisör City 5,+49 561 34975253,service@frisr-city-5.de,https://www.frisr-city-5.de,Barber,"Hauptstraße 32, 34119 Kassel",Kassel,34119
+Gentlemen's Cut Mitte 64,+49 561 87432379,termin@gentlemens-cut-mitte-64.de,https://www.gentlemens-cut-mitte-64.de,Barber,"Hauptstraße 71, 34117 Kassel",Kassel,34117
+Hair & Beauty Zentrum 31,+49 561 45598836,service@hair--beauty-zentrum-31.de,https://www.hair--beauty-zentrum-31.de,Hairdresser,"Goethestraße 17, 34117 Kassel",Kassel,34117
+Hair & Beauty Zentrum 78,+49 561 67558027,hair--beauty-zentrum-78@t-online.de,https://www.hair--beauty-zentrum-78.de,Hairdresser,"Berliner Straße 85, 34129 Kassel",Kassel,34129
+Hair Design Kassel,+49 561 29490495,info@hair-design-kassel.de,,Barber,"Berliner Straße 54, 34128 Kassel",Kassel,34128
+Herrenfriseur City 21,+49 561 47394498,herrenfriseur-city-21@gmail.com,https://www.herrenfriseur-city-21.de,Hairdresser,"Kirchstraße 86, 34128 Kassel",Kassel,34128
+Herrenfriseur City 99,+49 561 89081934,salon@herrenfriseur-city-99.de,https://www.herrenfriseur-city-99.de,Hairdresser,"Münchner Straße 38, 34119 Kassel",Kassel,34119
+Style Studio Zentrum 75,+49 561 49609443,salon@style-studio-zentrum-75.de,https://www.style-studio-zentrum-75.de,Hairdresser,"Kaiserstraße 103, 34128 Kassel",Kassel,34128
+Barber Kiel,+49 431 73186829,barber-kiel@outlook.de,https://www.barber-kiel.de,Hairdresser,"Schillerstraße 62, 24111 Kiel",Kiel,24111
+Barber Mitte 45,+49 431 51172250,termin@barber-mitte-45.de,https://www.barber-mitte-45.de,Hairdresser,"Hamburger Straße 4, 24106 Kiel",Kiel,24106
+Barber Mitte 50,+49 431 51231056,barber-mitte-50@gmx.de,https://www.barber-mitte-50.de,Hairdresser,"Münchner Straße 5, 24114 Kiel",Kiel,24114
+Barber Shop Zentrum 88,+49 431 73084144,service@barber-shop-zentrum-88.de,https://www.barber-shop-zentrum-88.de,Hairdresser,"Hauptstraße 2, 24103 Kiel",Kiel,24103
+Beauty Salon Kiel,+49 431 13591307,service@beauty-salon-kiel.de,,Barber,"Goethestraße 92, 24103 Kiel",Kiel,24103
+Damenfriseur City 2,+49 431 59455612,salon@damenfriseur-city-2.de,https://www.damenfriseur-city-2.de,Hairdresser,"Schillerstraße 19, 24105 Kiel",Kiel,24105
+Damenfriseur Zentrum 59,+49 431 63866793,service@damenfriseur-zentrum-59.de,https://www.damenfriseur-zentrum-59.de,Barber,"Münchner Straße 88, 24106 Kiel",Kiel,24106
+Friseursalon City 89,+49 431 61279019,friseursalon-city-89@t-online.de,https://www.friseursalon-city-89.de,Hairdresser,"Hauptstraße 30, 24111 Kiel",Kiel,24111
+Frisör City 56,+49 431 47183908,termin@frisr-city-56.de,,Hairdresser,"Münchner Straße 140, 24103 Kiel",Kiel,24103
+Frisör Kiel,+49 431 61628175,kontakt@frisr-kiel.de,https://www.frisr-kiel.de,Hairdresser,"Kirchstraße 30, 24109 Kiel",Kiel,24109
+Frisör Mitte 76,+49 431 44345211,service@frisr-mitte-76.de,,Hairdresser,"Kaiserstraße 8, 24111 Kiel",Kiel,24111
+Gentlemen's Cut City 73,+49 431 72366977,termin@gentlemens-cut-city-73.de,https://www.gentlemens-cut-city-73.de,Hairdresser,"Kölner Straße 123, 24113 Kiel",Kiel,24113
+Haarstudio Zentrum 50,+49 431 40492720,haarstudio-zentrum-50@web.de,,Hairdresser,"Münchner Straße 14, 24111 Kiel",Kiel,24111
+Haarstudio Zentrum 52,+49 431 90397442,termin@haarstudio-zentrum-52.de,https://www.haarstudio-zentrum-52.de,Hairdresser,"Kaiserstraße 149, 24105 Kiel",Kiel,24105
+Haarwerk Kiel,+49 431 21591328,service@haarwerk-kiel.de,https://www.haarwerk-kiel.de,Hairdresser,"Kaiserstraße 29, 24109 Kiel",Kiel,24109
+Hair Design Kiel,+49 431 89414961,kontakt@hair-design-kiel.de,https://www.hair-design-kiel.de,Hairdresser,"Kaiserstraße 77, 24114 Kiel",Kiel,24114
+Hair Design Kiel 13,+49 431 61185269,termin@hair-design-kiel-13.de,https://www.hair-design-kiel-13.de,Hairdresser,"Lindenstraße 16, 24114 Kiel",Kiel,24114
+Hair Design Kiel 72,+49 431 98966159,termin@hair-design-kiel-72.de,https://www.hair-design-kiel-72.de,Hairdresser,"Kölner Straße 25, 24103 Kiel",Kiel,24103
+Style Studio Kiel,+49 431 12384561,kontakt@style-studio-kiel.de,https://www.style-studio-kiel.de,Hairdresser,"Goethestraße 82, 24105 Kiel",Kiel,24105
+Barber Mitte 1,+49 2151 60398398,barber-mitte-1@gmail.com,https://www.barber-mitte-1.de,Hairdresser,"Goethestraße 1, 47799 Krefeld",Krefeld,47799
+Barber Shop 38,+49 2151 99844539,info@barber-shop-38.de,https://www.barber-shop-38.de,Hairdresser,"Goethestraße 120, 47804 Krefeld",Krefeld,47804
+Barber Shop 87,+49 2151 45527679,salon@barber-shop-87.de,https://www.barber-shop-87.de,Hairdresser,"Berliner Straße 121, 47803 Krefeld",Krefeld,47803
+Beauty Salon 85,+49 2151 75508564,termin@beauty-salon-85.de,https://www.beauty-salon-85.de,Hairdresser,"Kaiserstraße 16, 47807 Krefeld",Krefeld,47807
+Beauty Salon Zentrum 67,+49 2151 66629735,termin@beauty-salon-zentrum-67.de,https://www.beauty-salon-zentrum-67.de,Hairdresser,"Münchner Straße 147, 47807 Krefeld",Krefeld,47807
+Coiffeur 87,+49 2151 82538041,termin@coiffeur-87.de,https://www.coiffeur-87.de,Hairdresser,"Kirchstraße 41, 47803 Krefeld",Krefeld,47803
+Coiffeur Krefeld,+49 2151 29823231,kontakt@coiffeur-krefeld.de,https://www.coiffeur-krefeld.de,Hairdresser,"Marktplatz 144, 47800 Krefeld",Krefeld,47800
+Damenfriseur Mitte 54,+49 2151 83449153,termin@damenfriseur-mitte-54.de,https://www.damenfriseur-mitte-54.de,Hairdresser,"Hauptstraße 64, 47805 Krefeld",Krefeld,47805
+Damenfriseur Zentrum 92,+49 2151 78848239,termin@damenfriseur-zentrum-92.de,,Hairdresser,"Goethestraße 38, 47803 Krefeld",Krefeld,47803
+Friseur Mitte 46,+49 2151 80774722,friseur-mitte-46@t-online.de,https://www.friseur-mitte-46.de,Hairdresser,"Schillerstraße 76, 47799 Krefeld",Krefeld,47799
+Friseursalon 93,+49 2151 29144543,friseursalon-93@outlook.de,https://www.friseursalon-93.de,Barber,"Hamburger Straße 44, 47805 Krefeld",Krefeld,47805
+Frisör Mitte 59,+49 2151 26874266,info@frisr-mitte-59.de,,Hairdresser,"Friedrichstraße 31, 47802 Krefeld",Krefeld,47802
+Haarsalon Mitte 1,+49 2151 36471325,salon@haarsalon-mitte-1.de,https://www.haarsalon-mitte-1.de,Hairdresser,"Friedrichstraße 126, 47807 Krefeld",Krefeld,47807
+Haarstudio 93,+49 2151 37793350,kontakt@haarstudio-93.de,https://www.haarstudio-93.de,Hairdresser,"Münchner Straße 134, 47800 Krefeld",Krefeld,47800
+Haarstudio Mitte 29,+49 2151 53958991,info@haarstudio-mitte-29.de,https://www.haarstudio-mitte-29.de,Hairdresser,"Friedrichstraße 5, 47799 Krefeld",Krefeld,47799
+Haarstudio Zentrum 41,+49 2151 25182303,haarstudio-zentrum-41@web.de,https://www.haarstudio-zentrum-41.de,Hairdresser,"Kölner Straße 17, 47802 Krefeld",Krefeld,47802
+Hair & Beauty Krefeld,+49 2151 91407651,kontakt@hair--beauty-krefeld.de,https://www.hair--beauty-krefeld.de,Hairdresser,"Bahnhofstraße 83, 47802 Krefeld",Krefeld,47802
+Hair & Beauty Krefeld 24,+49 2151 71846516,hair--beauty-krefeld-24@gmail.com,https://www.hair--beauty-krefeld-24.de,Hairdresser,"Friedrichstraße 118, 47804 Krefeld",Krefeld,47804
+Herrenfriseur Krefeld,+49 2151 68318800,herrenfriseur-krefeld@t-online.de,https://www.herrenfriseur-krefeld.de,Hairdresser,"Hauptstraße 2, 47800 Krefeld",Krefeld,47800
+Herrenfriseur Zentrum 54,+49 2151 31600719,herrenfriseur-zentrum-54@outlook.de,https://www.herrenfriseur-zentrum-54.de,Hairdresser,"Lindenstraße 107, 47802 Krefeld",Krefeld,47802
+Schnitt & Style 74,+49 2151 78503100,termin@schnitt--style-74.de,https://www.schnitt--style-74.de,Hairdresser,"Schillerstraße 25, 47807 Krefeld",Krefeld,47807
+Barber Shop Köln,+49 221 64995924,info@barber-shop-kln.de,https://www.barber-shop-kln.de,Hairdresser,"Berliner Straße 24, 50672 Köln",Köln,50672
+Beauty Salon,+49 221 41936577,termin@beauty-salon.de,https://www.beauty-salon.de,Hairdresser,"Hauptstraße 36, 50678 Köln",Köln,50678
+Beauty Salon Köln,+49 221 88292080,service@beauty-salon-kln.de,https://www.beauty-salon-kln.de,Hairdresser,"Schillerstraße 130, 50667 Köln",Köln,50667
+Coiffeur 26,+49 221 21561888,info@coiffeur-26.de,https://www.coiffeur-26.de,Hairdresser,"Münchner Straße 8, 50674 Köln",Köln,50674
+Coiffeur Köln,+49 221 48221972,kontakt@coiffeur-kln.de,,Barber,"Hauptstraße 148, 50676 Köln",Köln,50676
+Damenfriseur,+49 221 26637673,termin@damenfriseur.de,https://www.damenfriseur.de,Barber,"Berliner Straße 21, 50676 Köln",Köln,50676
+Friseur City,+49 221 20289476,kontakt@friseur-city.de,https://www.friseur-city.de,Barber,"Schillerstraße 103, 50672 Köln",Köln,50672
+Friseursalon City,+49 221 81928192,salon@friseursalon-city.de,https://www.friseursalon-city.de,Barber,"Marktplatz 23, 50668 Köln",Köln,50668
+Frisör Mitte,+49 221 91626668,termin@frisr-mitte.de,https://www.frisr-mitte.de,Hairdresser,"Münchner Straße 86, 50674 Köln",Köln,50674
+Gentlemen's Cut Köln,+49 221 10293188,salon@gentlemens-cut-kln.de,https://www.gentlemens-cut-kln.de,Hairdresser,"Münchner Straße 72, 50672 Köln",Köln,50672
+Gentlemen's Cut Mitte,+49 221 75907383,info@gentlemens-cut-mitte.de,https://www.gentlemens-cut-mitte.de,Hairdresser,"Kirchstraße 74, 50670 Köln",Köln,50670
+Haar Atelier,+49 221 69115487,info@haar-atelier.de,,Hairdresser,"Friedrichstraße 145, 50677 Köln",Köln,50677
+Haarstudio Zentrum,+49 221 98641589,salon@haarstudio-zentrum.de,https://www.haarstudio-zentrum.de,Barber,"Schillerstraße 20, 50677 Köln",Köln,50677
+Haarstudio Zentrum 98,+49 221 70124571,kontakt@haarstudio-zentrum-98.de,,Hairdresser,"Kaiserstraße 55, 50667 Köln",Köln,50667
+Haarwerk City,+49 221 62619952,kontakt@haarwerk-city.de,https://www.haarwerk-city.de,Hairdresser,"Berliner Straße 108, 50676 Köln",Köln,50676
+Hair Design 30,+49 221 84540671,hair-design-30@gmx.de,https://www.hair-design-30.de,Hairdresser,"Hamburger Straße 34, 50670 Köln",Köln,50670
+Herrenfriseur Köln,+49 221 51501006,herrenfriseur-kln@gmx.de,,Hairdresser,"Lindenstraße 132, 50672 Köln",Köln,50672
+Barber 61,+49 341 68299785,barber-61@t-online.de,,Hairdresser,"Kirchstraße 38, 04103 Leipzig",Leipzig,04103
+Barber Leipzig,+49 341 54093520,salon@barber-leipzig.de,,Barber,"Königstraße 66, 04155 Leipzig",Leipzig,04155
+Barber Shop Mitte 80,+49 341 92769993,service@barber-shop-mitte-80.de,,Hairdresser,"Kirchstraße 63, 04103 Leipzig",Leipzig,04103
+Barber Shop Zentrum 11,+49 341 73018394,termin@barber-shop-zentrum-11.de,https://www.barber-shop-zentrum-11.de,Hairdresser,"Hamburger Straße 78, 04129 Leipzig",Leipzig,04129
+Barbier 93,+49 341 90556306,info@barbier-93.de,,Barber,"Kaiserstraße 51, 04103 Leipzig",Leipzig,04103
+Barbier Mitte,+49 341 39258284,kontakt@barbier-mitte.de,,Hairdresser,"Hauptstraße 83, 04155 Leipzig",Leipzig,04155
+Damenfriseur Leipzig,+49 341 46894751,info@damenfriseur-leipzig.de,https://www.damenfriseur-leipzig.de,Barber,"Lindenstraße 100, 04155 Leipzig",Leipzig,04155
+Damenfriseur Zentrum,+49 341 56492457,salon@damenfriseur-zentrum.de,https://www.damenfriseur-zentrum.de,Hairdresser,"Hauptstraße 101, 04129 Leipzig",Leipzig,04129
+Friseur Leipzig,+49 341 39781874,kontakt@friseur-leipzig.de,https://www.friseur-leipzig.de,Hairdresser,"Königstraße 21, 04107 Leipzig",Leipzig,04107
+Friseursalon City 54,+49 341 40544912,info@friseursalon-city-54.de,https://www.friseursalon-city-54.de,Hairdresser,"Hamburger Straße 13, 04155 Leipzig",Leipzig,04155
+Friseursalon Zentrum,+49 341 55698283,friseursalon-zentrum@outlook.de,https://www.friseursalon-zentrum.de,Hairdresser,"Königstraße 120, 04109 Leipzig",Leipzig,04109
+Frisör 70,+49 341 94232407,frisr-70@gmx.de,,Hairdresser,"Hamburger Straße 49, 04155 Leipzig",Leipzig,04155
+Haarstudio 68,+49 341 26808506,termin@haarstudio-68.de,https://www.haarstudio-68.de,Hairdresser,"Kaiserstraße 146, 04107 Leipzig",Leipzig,04107
+Haarstudio Leipzig,+49 341 64593253,service@haarstudio-leipzig.de,https://www.haarstudio-leipzig.de,Hairdresser,"Münchner Straße 62, 04103 Leipzig",Leipzig,04103
+Hair & Beauty Leipzig,+49 341 73303472,salon@hair--beauty-leipzig.de,https://www.hair--beauty-leipzig.de,Hairdresser,"Berliner Straße 130, 04103 Leipzig",Leipzig,04103
+Hair & Beauty Leipzig 70,+49 341 49306947,termin@hair--beauty-leipzig-70.de,https://www.hair--beauty-leipzig-70.de,Barber,"Hauptstraße 69, 04129 Leipzig",Leipzig,04129
+Salon City,+49 341 46920904,salon-city@outlook.de,https://www.salon-city.de,Hairdresser,"Berliner Straße 92, 04103 Leipzig",Leipzig,04103
+Salon Leipzig,+49 341 46563685,service@salon-leipzig.de,,Barber,"Lindenstraße 42, 04129 Leipzig",Leipzig,04129
+Salon Zentrum 71,+49 341 98509573,salon@salon-zentrum-71.de,https://www.salon-zentrum-71.de,Hairdresser,"Königstraße 56, 04159 Leipzig",Leipzig,04159
+Schnitt & Style 13,+49 341 20432835,info@schnitt--style-13.de,https://www.schnitt--style-13.de,Hairdresser,"Königstraße 60, 04109 Leipzig",Leipzig,04109
+Schnitt & Style Mitte 64,+49 341 26581721,termin@schnitt--style-mitte-64.de,https://www.schnitt--style-mitte-64.de,Hairdresser,"Kölner Straße 52, 04107 Leipzig",Leipzig,04107
+Barber Lübeck,+49 451 11487765,service@barber-lbeck.de,https://www.barber-lbeck.de,Barber,"Hamburger Straße 46, 23552 Lübeck",Lübeck,23552
+Barber Shop Zentrum 98,+49 451 94031086,kontakt@barber-shop-zentrum-98.de,https://www.barber-shop-zentrum-98.de,Hairdresser,"Münchner Straße 99, 23556 Lübeck",Lübeck,23556
+Barbier Lübeck,+49 451 62585535,kontakt@barbier-lbeck.de,https://www.barbier-lbeck.de,Hairdresser,"Kölner Straße 34, 23558 Lübeck",Lübeck,23558
+Barbier Mitte 67,+49 451 96644207,salon@barbier-mitte-67.de,https://www.barbier-mitte-67.de,Hairdresser,"Hamburger Straße 88, 23558 Lübeck",Lübeck,23558
+Beauty Salon City 10,+49 451 92907481,beauty-salon-city-10@outlook.de,https://www.beauty-salon-city-10.de,Hairdresser,"Hauptstraße 85, 23564 Lübeck",Lübeck,23564
+Damenfriseur Lübeck,+49 451 22253487,kontakt@damenfriseur-lbeck.de,https://www.damenfriseur-lbeck.de,Hairdresser,"Münchner Straße 108, 23562 Lübeck",Lübeck,23562
+Damenfriseur Lübeck 25,+49 451 57263127,damenfriseur-lbeck-25@outlook.de,https://www.damenfriseur-lbeck-25.de,Barber,"Königstraße 30, 23558 Lübeck",Lübeck,23558
+Friseur 3,+49 451 30004680,service@friseur-3.de,https://www.friseur-3.de,Barber,"Lindenstraße 29, 23566 Lübeck",Lübeck,23566
+Friseur City 72,+49 451 23796386,salon@friseur-city-72.de,https://www.friseur-city-72.de,Hairdresser,"Hauptstraße 37, 23566 Lübeck",Lübeck,23566
+Friseur Lübeck,+49 451 70516026,kontakt@friseur-lbeck.de,https://www.friseur-lbeck.de,Hairdresser,"Münchner Straße 23, 23558 Lübeck",Lübeck,23558
+Haarsalon 65,+49 451 16832212,haarsalon-65@web.de,https://www.haarsalon-65.de,Hairdresser,"Schillerstraße 92, 23562 Lübeck",Lübeck,23562
+Haarsalon Lübeck,+49 451 46916033,haarsalon-lbeck@gmail.com,https://www.haarsalon-lbeck.de,Barber,"Schillerstraße 50, 23556 Lübeck",Lübeck,23556
+Haarsalon Lübeck 86,+49 451 54842762,info@haarsalon-lbeck-86.de,,Hairdresser,"Goethestraße 45, 23554 Lübeck",Lübeck,23554
+Haarsalon Mitte 89,+49 451 18010815,salon@haarsalon-mitte-89.de,https://www.haarsalon-mitte-89.de,Hairdresser,"Marktplatz 122, 23564 Lübeck",Lübeck,23564
+Hair & Beauty Mitte 25,+49 451 74991493,salon@hair--beauty-mitte-25.de,,Barber,"Münchner Straße 83, 23552 Lübeck",Lübeck,23552
+Hair Design Mitte 26,+49 451 96078990,info@hair-design-mitte-26.de,https://www.hair-design-mitte-26.de,Hairdresser,"Hamburger Straße 144, 23554 Lübeck",Lübeck,23554
+Hair Lounge 35,+49 451 22982474,salon@hair-lounge-35.de,https://www.hair-lounge-35.de,Hairdresser,"Schillerstraße 144, 23564 Lübeck",Lübeck,23564
+Hair Lounge Lübeck,+49 451 41748896,service@hair-lounge-lbeck.de,https://www.hair-lounge-lbeck.de,Barber,"Hamburger Straße 55, 23558 Lübeck",Lübeck,23558
+Hair Lounge Zentrum 46,+49 451 57539633,termin@hair-lounge-zentrum-46.de,https://www.hair-lounge-zentrum-46.de,Hairdresser,"Münchner Straße 142, 23560 Lübeck",Lübeck,23560
+Salon Lübeck,+49 451 18914704,info@salon-lbeck.de,https://www.salon-lbeck.de,Barber,"Münchner Straße 122, 23564 Lübeck",Lübeck,23564
+Schnitt & Style 27,+49 451 21684944,schnitt--style-27@t-online.de,,Barber,"Berliner Straße 40, 23560 Lübeck",Lübeck,23560
+Schnitt & Style Lübeck,+49 451 26446896,kontakt@schnitt--style-lbeck.de,,Barber,"Bahnhofstraße 5, 23564 Lübeck",Lübeck,23564
+Schnitt & Style Mitte 65,+49 451 48163796,salon@schnitt--style-mitte-65.de,https://www.schnitt--style-mitte-65.de,Hairdresser,"Bahnhofstraße 131, 23564 Lübeck",Lübeck,23564
+Style Studio Mitte 57,+49 451 47793304,service@style-studio-mitte-57.de,https://www.style-studio-mitte-57.de,Hairdresser,"Münchner Straße 148, 23552 Lübeck",Lübeck,23552
+Barber 67,+49 391 23154747,salon@barber-67.de,,Hairdresser,"Kölner Straße 148, 39112 Magdeburg",Magdeburg,39112
+Barber Shop Magdeburg,+49 391 29874752,barber-shop-magdeburg@t-online.de,https://www.barber-shop-magdeburg.de,Hairdresser,"Kirchstraße 111, 39116 Magdeburg",Magdeburg,39116
+Barber Shop Zentrum 66,+49 391 40657346,service@barber-shop-zentrum-66.de,https://www.barber-shop-zentrum-66.de,Hairdresser,"Königstraße 110, 39104 Magdeburg",Magdeburg,39104
+Barbier Magdeburg,+49 391 98003338,kontakt@barbier-magdeburg.de,,Hairdresser,"Friedrichstraße 22, 39112 Magdeburg",Magdeburg,39112
+Barbier Mitte 56,+49 391 26191262,service@barbier-mitte-56.de,https://www.barbier-mitte-56.de,Hairdresser,"Kaiserstraße 108, 39118 Magdeburg",Magdeburg,39118
+Beauty Salon Zentrum 24,+49 391 17606875,beauty-salon-zentrum-24@gmx.de,,Hairdresser,"Kirchstraße 50, 39118 Magdeburg",Magdeburg,39118
+Coiffeur Magdeburg,+49 391 98457061,service@coiffeur-magdeburg.de,https://www.coiffeur-magdeburg.de,Hairdresser,"Schillerstraße 131, 39110 Magdeburg",Magdeburg,39110
+Damenfriseur 80,+49 391 70679066,damenfriseur-80@t-online.de,https://www.damenfriseur-80.de,Hairdresser,"Friedrichstraße 82, 39106 Magdeburg",Magdeburg,39106
+Friseursalon City 33,+49 391 23994435,salon@friseursalon-city-33.de,,Barber,"Kölner Straße 78, 39106 Magdeburg",Magdeburg,39106
+Gentlemen's Cut Mitte 50,+49 391 48300787,info@gentlemens-cut-mitte-50.de,https://www.gentlemens-cut-mitte-50.de,Hairdresser,"Berliner Straße 84, 39116 Magdeburg",Magdeburg,39116
+Haar Atelier City 36,+49 391 71605147,termin@haar-atelier-city-36.de,,Hairdresser,"Münchner Straße 58, 39114 Magdeburg",Magdeburg,39114
+Haarsalon 24,+49 391 29161270,service@haarsalon-24.de,https://www.haarsalon-24.de,Barber,"Goethestraße 133, 39116 Magdeburg",Magdeburg,39116
+Haarsalon City 22,+49 391 18255610,kontakt@haarsalon-city-22.de,https://www.haarsalon-city-22.de,Barber,"Berliner Straße 72, 39110 Magdeburg",Magdeburg,39110
+Haarstudio Zentrum 10,+49 391 10697393,haarstudio-zentrum-10@gmail.com,https://www.haarstudio-zentrum-10.de,Barber,"Friedrichstraße 110, 39108 Magdeburg",Magdeburg,39108
+Hair & Beauty Magdeburg,+49 391 95188696,kontakt@hair--beauty-magdeburg.de,https://www.hair--beauty-magdeburg.de,Hairdresser,"Bahnhofstraße 34, 39114 Magdeburg",Magdeburg,39114
+Hair Design Zentrum 37,+49 391 51717976,hair-design-zentrum-37@t-online.de,,Hairdresser,"Hamburger Straße 28, 39116 Magdeburg",Magdeburg,39116
+Hair Design Zentrum 97,+49 391 39904538,termin@hair-design-zentrum-97.de,https://www.hair-design-zentrum-97.de,Hairdresser,"Goethestraße 27, 39112 Magdeburg",Magdeburg,39112
+Herrenfriseur Magdeburg,+49 391 12378030,info@herrenfriseur-magdeburg.de,https://www.herrenfriseur-magdeburg.de,Hairdresser,"Berliner Straße 85, 39114 Magdeburg",Magdeburg,39114
+Salon Magdeburg,+49 391 19182199,salon-magdeburg@gmail.com,,Barber,"Marktplatz 61, 39114 Magdeburg",Magdeburg,39114
+Salon Zentrum 97,+49 391 47656130,termin@salon-zentrum-97.de,https://www.salon-zentrum-97.de,Barber,"Berliner Straße 54, 39104 Magdeburg",Magdeburg,39104
+Schnitt & Style Zentrum 61,+49 391 48826176,salon@schnitt--style-zentrum-61.de,https://www.schnitt--style-zentrum-61.de,Hairdresser,"Berliner Straße 85, 39110 Magdeburg",Magdeburg,39110
+Style Studio Magdeburg,+49 391 50650340,style-studio-magdeburg@t-online.de,https://www.style-studio-magdeburg.de,Hairdresser,"Kölner Straße 72, 39104 Magdeburg",Magdeburg,39104
+Style Studio Mitte 45,+49 391 37032461,style-studio-mitte-45@outlook.de,https://www.style-studio-mitte-45.de,Hairdresser,"Kaiserstraße 2, 39104 Magdeburg",Magdeburg,39104
+Barbier Mainz,+49 6131 99602828,kontakt@barbier-mainz.de,https://www.barbier-mainz.de,Hairdresser,"Berliner Straße 25, 55127 Mainz",Mainz,55127
+Frisör 14,+49 6131 17143323,frisr-14@web.de,https://www.frisr-14.de,Hairdresser,"Goethestraße 29, 55118 Mainz",Mainz,55118
+Frisör 98,+49 6131 49787027,service@frisr-98.de,https://www.frisr-98.de,Barber,"Goethestraße 7, 55126 Mainz",Mainz,55126
+Frisör City 80,+49 6131 50654470,frisr-city-80@gmx.de,https://www.frisr-city-80.de,Hairdresser,"Kirchstraße 94, 55118 Mainz",Mainz,55118
+Frisör Zentrum 25,+49 6131 46824653,frisr-zentrum-25@t-online.de,https://www.frisr-zentrum-25.de,Hairdresser,"Kirchstraße 5, 55118 Mainz",Mainz,55118
+Haar Atelier City 31,+49 6131 47787480,termin@haar-atelier-city-31.de,https://www.haar-atelier-city-31.de,Hairdresser,"Kölner Straße 40, 55118 Mainz",Mainz,55118
+Haarstudio 78,+49 6131 98545086,haarstudio-78@gmail.com,,Barber,"Friedrichstraße 69, 55124 Mainz",Mainz,55124
+Haarstudio Mainz,+49 6131 16238562,salon@haarstudio-mainz.de,,Hairdresser,"Berliner Straße 103, 55128 Mainz",Mainz,55128
+Haarstudio Mainz 50,+49 6131 77531816,termin@haarstudio-mainz-50.de,https://www.haarstudio-mainz-50.de,Barber,"Bahnhofstraße 75, 55128 Mainz",Mainz,55128
+Haarstudio Mitte 15,+49 6131 35453340,haarstudio-mitte-15@gmx.de,https://www.haarstudio-mitte-15.de,Barber,"Schillerstraße 93, 55118 Mainz",Mainz,55118
+Haarwerk City 31,+49 6131 60488149,haarwerk-city-31@t-online.de,https://www.haarwerk-city-31.de,Hairdresser,"Schillerstraße 12, 55128 Mainz",Mainz,55128
+Hair & Beauty Mitte 62,+49 6131 16412102,hair--beauty-mitte-62@outlook.de,https://www.hair--beauty-mitte-62.de,Hairdresser,"Kölner Straße 26, 55122 Mainz",Mainz,55122
+Hair Lounge Zentrum 24,+49 6131 19339197,salon@hair-lounge-zentrum-24.de,https://www.hair-lounge-zentrum-24.de,Hairdresser,"Schillerstraße 83, 55116 Mainz",Mainz,55116
+Herrenfriseur City 26,+49 6131 55950426,herrenfriseur-city-26@t-online.de,https://www.herrenfriseur-city-26.de,Hairdresser,"Berliner Straße 139, 55126 Mainz",Mainz,55126
+Salon City 78,+49 6131 58402947,salon@salon-city-78.de,https://www.salon-city-78.de,Hairdresser,"Goethestraße 46, 55126 Mainz",Mainz,55126
+Style Studio City 78,+49 6131 71205693,style-studio-city-78@outlook.de,https://www.style-studio-city-78.de,Hairdresser,"Hamburger Straße 48, 55122 Mainz",Mainz,55122
+Style Studio Mainz,+49 6131 54409664,info@style-studio-mainz.de,https://www.style-studio-mainz.de,Hairdresser,"Kaiserstraße 43, 55126 Mainz",Mainz,55126
+Barber Mannheim,+49 621 22394056,termin@barber-mannheim.de,https://www.barber-mannheim.de,Hairdresser,"Lindenstraße 14, 68167 Mannheim",Mannheim,68167
+Barber Zentrum 58,+49 621 38597921,salon@barber-zentrum-58.de,https://www.barber-zentrum-58.de,Hairdresser,"Münchner Straße 32, 68219 Mannheim",Mannheim,68219
+Barbier 17,+49 621 81812830,barbier-17@web.de,https://www.barbier-17.de,Barber,"Bahnhofstraße 14, 68161 Mannheim",Mannheim,68161
+Coiffeur Mannheim,+49 621 73688647,kontakt@coiffeur-mannheim.de,,Hairdresser,"Schillerstraße 134, 68199 Mannheim",Mannheim,68199
+Damenfriseur Mannheim,+49 621 48445705,service@damenfriseur-mannheim.de,https://www.damenfriseur-mannheim.de,Hairdresser,"Berliner Straße 128, 68165 Mannheim",Mannheim,68165
+Damenfriseur Mannheim 39,+49 621 44606541,damenfriseur-mannheim-39@web.de,https://www.damenfriseur-mannheim-39.de,Hairdresser,"Münchner Straße 37, 68169 Mannheim",Mannheim,68169
+Friseursalon Mitte 33,+49 621 30946341,service@friseursalon-mitte-33.de,https://www.friseursalon-mitte-33.de,Hairdresser,"Goethestraße 79, 68163 Mannheim",Mannheim,68163
+Haar Atelier 11,+49 621 47702193,info@haar-atelier-11.de,,Hairdresser,"Kölner Straße 47, 68169 Mannheim",Mannheim,68169
+Haar Atelier 90,+49 621 60692257,info@haar-atelier-90.de,https://www.haar-atelier-90.de,Hairdresser,"Münchner Straße 129, 68199 Mannheim",Mannheim,68199
+Haar Atelier Zentrum 16,+49 621 92308802,haar-atelier-zentrum-16@gmail.com,https://www.haar-atelier-zentrum-16.de,Hairdresser,"Kirchstraße 2, 68159 Mannheim",Mannheim,68159
+Haarsalon 33,+49 621 40111324,haarsalon-33@outlook.de,https://www.haarsalon-33.de,Hairdresser,"Kaiserstraße 108, 68167 Mannheim",Mannheim,68167
+Haarstudio Zentrum 42,+49 621 61317835,kontakt@haarstudio-zentrum-42.de,https://www.haarstudio-zentrum-42.de,Barber,"Schillerstraße 134, 68165 Mannheim",Mannheim,68165
+Haarwerk Mannheim,+49 621 36766171,info@haarwerk-mannheim.de,https://www.haarwerk-mannheim.de,Hairdresser,"Königstraße 15, 68165 Mannheim",Mannheim,68165
+Haarwerk Mitte,+49 621 49397563,termin@haarwerk-mitte.de,https://www.haarwerk-mitte.de,Hairdresser,"Lindenstraße 11, 68167 Mannheim",Mannheim,68167
+Haarwerk Zentrum 70,+49 621 33903501,haarwerk-zentrum-70@gmail.com,https://www.haarwerk-zentrum-70.de,Barber,"Kölner Straße 84, 68167 Mannheim",Mannheim,68167
+Hair & Beauty Mannheim,+49 621 26425999,hair--beauty-mannheim@outlook.de,https://www.hair--beauty-mannheim.de,Hairdresser,"Schillerstraße 36, 68163 Mannheim",Mannheim,68163
+Hair Design Mannheim,+49 621 73947088,kontakt@hair-design-mannheim.de,https://www.hair-design-mannheim.de,Hairdresser,"Goethestraße 69, 68167 Mannheim",Mannheim,68167
+Hair Design Mannheim 66,+49 621 55349397,termin@hair-design-mannheim-66.de,https://www.hair-design-mannheim-66.de,Hairdresser,"Friedrichstraße 96, 68163 Mannheim",Mannheim,68163
+Hair Design Mannheim 99,+49 621 57866192,salon@hair-design-mannheim-99.de,https://www.hair-design-mannheim-99.de,Barber,"Berliner Straße 106, 68169 Mannheim",Mannheim,68169
+Salon Mannheim,+49 621 72160791,salon-mannheim@gmail.com,,Hairdresser,"Kölner Straße 55, 68161 Mannheim",Mannheim,68161
+Salon Zentrum 61,+49 621 32131608,kontakt@salon-zentrum-61.de,https://www.salon-zentrum-61.de,Hairdresser,"Goethestraße 7, 68199 Mannheim",Mannheim,68199
+Barber Shop City 98,+49 2161 90842127,barber-shop-city-98@outlook.de,,Barber,"Hauptstraße 73, 41068 Mönchengladbach",Mönchengladbach,41068
+Damenfriseur Mönchengladbach,+49 2161 25670026,kontakt@damenfriseur-mnchengladbach.de,https://www.damenfriseur-mnchengladbach.de,Hairdresser,"Bahnhofstraße 146, 41068 Mönchengladbach",Mönchengladbach,41068
+Friseursalon City 63,+49 2161 12478722,friseursalon-city-63@gmail.com,,Hairdresser,"Berliner Straße 142, 41068 Mönchengladbach",Mönchengladbach,41068
+Frisör 78,+49 2161 18487560,frisr-78@gmail.com,https://www.frisr-78.de,Hairdresser,"Hauptstraße 117, 41069 Mönchengladbach",Mönchengladbach,41069
+Gentlemen's Cut City 42,+49 2161 10435589,termin@gentlemens-cut-city-42.de,https://www.gentlemens-cut-city-42.de,Barber,"Hauptstraße 116, 41069 Mönchengladbach",Mönchengladbach,41069
+Haar Atelier Mitte 38,+49 2161 77100146,termin@haar-atelier-mitte-38.de,https://www.haar-atelier-mitte-38.de,Hairdresser,"Hauptstraße 38, 41179 Mönchengladbach",Mönchengladbach,41179
+Haar Atelier Mönchengladbach,+49 2161 34318206,termin@haar-atelier-mnchengladbach.de,https://www.haar-atelier-mnchengladbach.de,Hairdresser,"Marktplatz 8, 41063 Mönchengladbach",Mönchengladbach,41063
+Haar Atelier Zentrum 96,+49 2161 62062741,service@haar-atelier-zentrum-96.de,https://www.haar-atelier-zentrum-96.de,Hairdresser,"Friedrichstraße 133, 41066 Mönchengladbach",Mönchengladbach,41066
+Haarsalon 88,+49 2161 93528085,service@haarsalon-88.de,,Hairdresser,"Goethestraße 81, 41068 Mönchengladbach",Mönchengladbach,41068
+Haarsalon Mönchengladbach,+49 2161 78431441,service@haarsalon-mnchengladbach.de,https://www.haarsalon-mnchengladbach.de,Hairdresser,"Bahnhofstraße 148, 41061 Mönchengladbach",Mönchengladbach,41061
+Haarwerk City 72,+49 2161 14494229,haarwerk-city-72@gmx.de,https://www.haarwerk-city-72.de,Hairdresser,"Hauptstraße 17, 41069 Mönchengladbach",Mönchengladbach,41069
+Hair & Beauty Mitte 29,+49 2161 43739309,hair--beauty-mitte-29@gmx.de,https://www.hair--beauty-mitte-29.de,Hairdresser,"Friedrichstraße 118, 41061 Mönchengladbach",Mönchengladbach,41061
+Hair & Beauty Zentrum 34,+49 2161 74002443,hair--beauty-zentrum-34@gmx.de,https://www.hair--beauty-zentrum-34.de,Hairdresser,"Lindenstraße 150, 41065 Mönchengladbach",Mönchengladbach,41065
+Hair Design Mönchengladbach,+49 2161 36433673,info@hair-design-mnchengladbach.de,https://www.hair-design-mnchengladbach.de,Barber,"Lindenstraße 65, 41169 Mönchengladbach",Mönchengladbach,41169
+Schnitt & Style Mitte 94,+49 2161 98057551,salon@schnitt--style-mitte-94.de,https://www.schnitt--style-mitte-94.de,Barber,"Hamburger Straße 112, 41179 Mönchengladbach",Mönchengladbach,41179
+Schnitt & Style Zentrum 26,+49 2161 80000360,termin@schnitt--style-zentrum-26.de,https://www.schnitt--style-zentrum-26.de,Hairdresser,"Münchner Straße 21, 41069 Mönchengladbach",Mönchengladbach,41069
+Style Studio City 32,+49 2161 74008653,style-studio-city-32@gmail.com,https://www.style-studio-city-32.de,Hairdresser,"Königstraße 10, 41063 Mönchengladbach",Mönchengladbach,41063
+Style Studio Mönchengladbach,+49 2161 76109572,info@style-studio-mnchengladbach.de,,Hairdresser,"Kirchstraße 13, 41066 Mönchengladbach",Mönchengladbach,41066
+Barber Shop München,+49 89 48614731,barber-shop-mnchen@gmail.com,https://www.barber-shop-mnchen.de,Hairdresser,"Lindenstraße 103, 80538 München",München,80538
+Barber Shop Zentrum 73,+49 89 37377870,termin@barber-shop-zentrum-73.de,https://www.barber-shop-zentrum-73.de,Barber,"Hauptstraße 61, 80333 München",München,80333
+Beauty Salon City,+49 89 35070220,info@beauty-salon-city.de,https://www.beauty-salon-city.de,Hairdresser,"Friedrichstraße 135, 80331 München",München,80331
+Beauty Salon Mitte,+49 89 25354802,kontakt@beauty-salon-mitte.de,,Hairdresser,"Kaiserstraße 3, 80331 München",München,80331
+Coiffeur,+49 89 35585633,service@coiffeur.de,https://www.coiffeur.de,Hairdresser,"Schillerstraße 135, 80337 München",München,80337
+Damenfriseur City,+49 89 30182020,service@damenfriseur-city.de,https://www.damenfriseur-city.de,Barber,"Lindenstraße 111, 80335 München",München,80335
+Damenfriseur City 87,+49 89 87740522,termin@damenfriseur-city-87.de,https://www.damenfriseur-city-87.de,Hairdresser,"Kaiserstraße 74, 80337 München",München,80337
+Damenfriseur Mitte 28,+49 89 71162812,damenfriseur-mitte-28@gmail.com,,Barber,"Schillerstraße 146, 80336 München",München,80336
+Gentlemen's Cut München,+49 89 12854157,gentlemens-cut-mnchen@gmail.com,https://www.gentlemens-cut-mnchen.de,Hairdresser,"Schillerstraße 112, 80336 München",München,80336
+Gentlemen's Cut Zentrum,+49 89 70555183,service@gentlemens-cut-zentrum.de,https://www.gentlemens-cut-zentrum.de,Hairdresser,"Münchner Straße 70, 80539 München",München,80539
+Haar Atelier München,+49 89 25729785,haar-atelier-mnchen@web.de,https://www.haar-atelier-mnchen.de,Hairdresser,"Kaiserstraße 110, 80336 München",München,80336
+Haarsalon 90,+49 89 21214324,haarsalon-90@gmail.com,https://www.haarsalon-90.de,Hairdresser,"Kölner Straße 93, 80335 München",München,80335
+Haarsalon München,+49 89 50392916,termin@haarsalon-mnchen.de,https://www.haarsalon-mnchen.de,Hairdresser,"Münchner Straße 70, 80337 München",München,80337
+Haarstudio City 97,+49 89 39283559,haarstudio-city-97@gmail.com,https://www.haarstudio-city-97.de,Hairdresser,"Berliner Straße 42, 80335 München",München,80335
+Haarwerk Zentrum 7,+49 89 54414553,termin@haarwerk-zentrum-7.de,https://www.haarwerk-zentrum-7.de,Hairdresser,"Kirchstraße 67, 80333 München",München,80333
+Hair & Beauty City,+49 89 95100738,hair--beauty-city@outlook.de,https://www.hair--beauty-city.de,Barber,"Bahnhofstraße 5, 80539 München",München,80539
+Hair & Beauty Zentrum 48,+49 89 68431622,hair--beauty-zentrum-48@outlook.de,https://www.hair--beauty-zentrum-48.de,Hairdresser,"Lindenstraße 90, 80538 München",München,80538
+Hair Design München,+49 89 52484437,kontakt@hair-design-mnchen.de,https://www.hair-design-mnchen.de,Hairdresser,"Berliner Straße 146, 80331 München",München,80331
+Herrenfriseur Mitte,+49 89 49975221,info@herrenfriseur-mitte.de,https://www.herrenfriseur-mitte.de,Barber,"Friedrichstraße 55, 80333 München",München,80333
+Herrenfriseur München,+49 89 88251977,termin@herrenfriseur-mnchen.de,https://www.herrenfriseur-mnchen.de,Hairdresser,"Goethestraße 7, 80333 München",München,80333
+Salon München,+49 89 23136611,salon-mnchen@t-online.de,https://www.salon-mnchen.de,Hairdresser,"Hamburger Straße 61, 80337 München",München,80337
+Barber Shop Münster,+49 251 89613629,kontakt@barber-shop-mnster.de,,Hairdresser,"Hauptstraße 119, 48155 Münster",Münster,48155
+Beauty Salon Münster,+49 251 40360799,info@beauty-salon-mnster.de,https://www.beauty-salon-mnster.de,Hairdresser,"Goethestraße 144, 48145 Münster",Münster,48145
+Beauty Salon Zentrum 79,+49 251 33006934,beauty-salon-zentrum-79@gmx.de,https://www.beauty-salon-zentrum-79.de,Hairdresser,"Königstraße 18, 48147 Münster",Münster,48147
+Coiffeur Münster,+49 251 17079613,coiffeur-mnster@t-online.de,https://www.coiffeur-mnster.de,Barber,"Bahnhofstraße 26, 48155 Münster",Münster,48155
+Coiffeur Münster 6,+49 251 35171135,termin@coiffeur-mnster-6.de,https://www.coiffeur-mnster-6.de,Hairdresser,"Kölner Straße 33, 48149 Münster",Münster,48149
+Friseur 33,+49 251 21241717,info@friseur-33.de,https://www.friseur-33.de,Hairdresser,"Münchner Straße 104, 48147 Münster",Münster,48147
+Friseur Mitte 45,+49 251 12302520,termin@friseur-mitte-45.de,https://www.friseur-mitte-45.de,Barber,"Münchner Straße 130, 48155 Münster",Münster,48155
+Friseur Zentrum 91,+49 251 91389717,friseur-zentrum-91@web.de,https://www.friseur-zentrum-91.de,Hairdresser,"Münchner Straße 135, 48143 Münster",Münster,48143
+Haarsalon Mitte 10,+49 251 93344913,service@haarsalon-mitte-10.de,https://www.haarsalon-mitte-10.de,Barber,"Münchner Straße 115, 48143 Münster",Münster,48143
+Haarsalon Münster,+49 251 79666488,haarsalon-mnster@gmail.com,,Hairdresser,"Lindenstraße 34, 48153 Münster",Münster,48153
+Hair & Beauty Münster,+49 251 50295932,hair--beauty-mnster@web.de,https://www.hair--beauty-mnster.de,Hairdresser,"Königstraße 77, 48153 Münster",Münster,48153
+Hair Design 69,+49 251 52785329,kontakt@hair-design-69.de,https://www.hair-design-69.de,Barber,"Münchner Straße 97, 48149 Münster",Münster,48149
+Hair Lounge Münster,+49 251 80208449,termin@hair-lounge-mnster.de,https://www.hair-lounge-mnster.de,Hairdresser,"Kirchstraße 121, 48149 Münster",Münster,48149
+Herrenfriseur Zentrum 94,+49 251 99500834,service@herrenfriseur-zentrum-94.de,https://www.herrenfriseur-zentrum-94.de,Barber,"Friedrichstraße 59, 48147 Münster",Münster,48147
+Salon Mitte 4,+49 251 87595587,salon@salon-mitte-4.de,https://www.salon-mitte-4.de,Hairdresser,"Kaiserstraße 22, 48155 Münster",Münster,48155
+Barber Nürnberg,+49 911 51715163,barber-nrnberg@web.de,,Hairdresser,"Königstraße 127, 90402 Nürnberg",Nürnberg,90402
+Barber Shop Nürnberg,+49 911 80851013,barber-shop-nrnberg@t-online.de,https://www.barber-shop-nrnberg.de,Hairdresser,"Marktplatz 58, 90411 Nürnberg",Nürnberg,90411
+Coiffeur 35,+49 911 90470619,service@coiffeur-35.de,https://www.coiffeur-35.de,Hairdresser,"Kirchstraße 132, 90402 Nürnberg",Nürnberg,90402
+Coiffeur City,+49 911 70352932,salon@coiffeur-city.de,https://www.coiffeur-city.de,Hairdresser,"Lindenstraße 88, 90403 Nürnberg",Nürnberg,90403
+Coiffeur Mitte 26,+49 911 77017359,kontakt@coiffeur-mitte-26.de,,Hairdresser,"Bahnhofstraße 89, 90402 Nürnberg",Nürnberg,90402
+Coiffeur Nürnberg,+49 911 78922829,kontakt@coiffeur-nrnberg.de,https://www.coiffeur-nrnberg.de,Hairdresser,"Bahnhofstraße 145, 90402 Nürnberg",Nürnberg,90402
+Friseur Nürnberg,+49 911 21465640,info@friseur-nrnberg.de,https://www.friseur-nrnberg.de,Hairdresser,"Friedrichstraße 91, 90403 Nürnberg",Nürnberg,90403
+Friseursalon City 13,+49 911 43388499,friseursalon-city-13@gmail.com,https://www.friseursalon-city-13.de,Hairdresser,"Hamburger Straße 75, 90429 Nürnberg",Nürnberg,90429
+Friseursalon Mitte,+49 911 74032674,friseursalon-mitte@web.de,https://www.friseursalon-mitte.de,Hairdresser,"Kaiserstraße 143, 90409 Nürnberg",Nürnberg,90409
+Friseursalon Nürnberg,+49 911 62146334,friseursalon-nrnberg@gmail.com,https://www.friseursalon-nrnberg.de,Barber,"Lindenstraße 99, 90409 Nürnberg",Nürnberg,90409
+Frisör Nürnberg,+49 911 63205995,salon@frisr-nrnberg.de,,Hairdresser,"Hamburger Straße 79, 90402 Nürnberg",Nürnberg,90402
+Haar Atelier 33,+49 911 93961241,service@haar-atelier-33.de,https://www.haar-atelier-33.de,Hairdresser,"Lindenstraße 41, 90408 Nürnberg",Nürnberg,90408
+Haar Atelier City 59,+49 911 49421974,termin@haar-atelier-city-59.de,https://www.haar-atelier-city-59.de,Hairdresser,"Bahnhofstraße 145, 90402 Nürnberg",Nürnberg,90402
+Haar Atelier City 63,+49 911 60274491,info@haar-atelier-city-63.de,,Hairdresser,"Königstraße 75, 90419 Nürnberg",Nürnberg,90419
+Haarstudio Nürnberg,+49 911 26862144,service@haarstudio-nrnberg.de,https://www.haarstudio-nrnberg.de,Hairdresser,"Lindenstraße 101, 90411 Nürnberg",Nürnberg,90411
+Hair Design 2,+49 911 46631639,service@hair-design-2.de,,Barber,"Kölner Straße 65, 90402 Nürnberg",Nürnberg,90402
+Hair Design Zentrum,+49 911 86674422,hair-design-zentrum@web.de,https://www.hair-design-zentrum.de,Hairdresser,"Goethestraße 35, 90409 Nürnberg",Nürnberg,90409
+Hair Lounge Mitte 89,+49 911 17694501,hair-lounge-mitte-89@gmail.com,https://www.hair-lounge-mitte-89.de,Hairdresser,"Hamburger Straße 125, 90403 Nürnberg",Nürnberg,90403
+Herrenfriseur Mitte 11,+49 911 37738294,service@herrenfriseur-mitte-11.de,https://www.herrenfriseur-mitte-11.de,Hairdresser,"Münchner Straße 131, 90411 Nürnberg",Nürnberg,90411
+Salon Mitte 33,+49 911 24312215,salon-mitte-33@gmail.com,,Hairdresser,"Kirchstraße 126, 90409 Nürnberg",Nürnberg,90409
+Schnitt & Style Nürnberg,+49 911 29238812,kontakt@schnitt--style-nrnberg.de,https://www.schnitt--style-nrnberg.de,Barber,"Münchner Straße 147, 90403 Nürnberg",Nürnberg,90403
+Barber Shop Mitte 88,+49 208 89204211,barber-shop-mitte-88@t-online.de,https://www.barber-shop-mitte-88.de,Barber,"Kölner Straße 139, 46117 Oberhausen",Oberhausen,46117
+Barbier City 4,+49 208 64108146,termin@barbier-city-4.de,https://www.barbier-city-4.de,Hairdresser,"Lindenstraße 144, 46145 Oberhausen",Oberhausen,46145
+Barbier Oberhausen,+49 208 76962692,salon@barbier-oberhausen.de,https://www.barbier-oberhausen.de,Hairdresser,"Berliner Straße 10, 46045 Oberhausen",Oberhausen,46045
+Beauty Salon Mitte 60,+49 208 69148154,beauty-salon-mitte-60@t-online.de,https://www.beauty-salon-mitte-60.de,Hairdresser,"Kaiserstraße 14, 46049 Oberhausen",Oberhausen,46049
+Damenfriseur City 23,+49 208 98904874,termin@damenfriseur-city-23.de,https://www.damenfriseur-city-23.de,Barber,"Bahnhofstraße 82, 46117 Oberhausen",Oberhausen,46117
+Friseur Oberhausen,+49 208 88606637,friseur-oberhausen@web.de,https://www.friseur-oberhausen.de,Hairdresser,"Kirchstraße 136, 46117 Oberhausen",Oberhausen,46117
+Friseursalon City 14,+49 208 88573722,service@friseursalon-city-14.de,https://www.friseursalon-city-14.de,Hairdresser,"Hamburger Straße 85, 46047 Oberhausen",Oberhausen,46047
+Friseursalon Zentrum 59,+49 208 84630165,friseursalon-zentrum-59@gmail.com,https://www.friseursalon-zentrum-59.de,Barber,"Kirchstraße 2, 46145 Oberhausen",Oberhausen,46145
+Frisör Oberhausen,+49 208 59337930,frisr-oberhausen@gmail.com,https://www.frisr-oberhausen.de,Hairdresser,"Hauptstraße 22, 46045 Oberhausen",Oberhausen,46045
+Haar Atelier Mitte 57,+49 208 26480381,kontakt@haar-atelier-mitte-57.de,https://www.haar-atelier-mitte-57.de,Barber,"Hauptstraße 137, 46145 Oberhausen",Oberhausen,46145
+Haar Atelier Zentrum 70,+49 208 59622200,haar-atelier-zentrum-70@t-online.de,,Barber,"Bahnhofstraße 123, 46117 Oberhausen",Oberhausen,46117
+Haarsalon Oberhausen,+49 208 32082344,termin@haarsalon-oberhausen.de,https://www.haarsalon-oberhausen.de,Hairdresser,"Friedrichstraße 111, 46147 Oberhausen",Oberhausen,46147
+Haarsalon Oberhausen 54,+49 208 15606861,kontakt@haarsalon-oberhausen-54.de,https://www.haarsalon-oberhausen-54.de,Hairdresser,"Kirchstraße 148, 46147 Oberhausen",Oberhausen,46147
+Hair Design Mitte 64,+49 208 86372513,kontakt@hair-design-mitte-64.de,https://www.hair-design-mitte-64.de,Barber,"Kirchstraße 37, 46045 Oberhausen",Oberhausen,46045
+Hair Design Oberhausen,+49 208 43976382,kontakt@hair-design-oberhausen.de,https://www.hair-design-oberhausen.de,Hairdresser,"Berliner Straße 128, 46149 Oberhausen",Oberhausen,46149
+Hair Lounge Oberhausen,+49 208 67636294,salon@hair-lounge-oberhausen.de,,Hairdresser,"Hamburger Straße 149, 46117 Oberhausen",Oberhausen,46117
+Schnitt & Style Oberhausen,+49 208 31092412,schnitt--style-oberhausen@web.de,https://www.schnitt--style-oberhausen.de,Barber,"Marktplatz 39, 46147 Oberhausen",Oberhausen,46147
+Style Studio Mitte 72,+49 208 30199785,termin@style-studio-mitte-72.de,https://www.style-studio-mitte-72.de,Hairdresser,"Lindenstraße 89, 46145 Oberhausen",Oberhausen,46145
+Style Studio Oberhausen,+49 208 22453648,info@style-studio-oberhausen.de,https://www.style-studio-oberhausen.de,Hairdresser,"Kirchstraße 128, 46145 Oberhausen",Oberhausen,46145
+Barber Rostock,+49 381 67152448,service@barber-rostock.de,https://www.barber-rostock.de,Hairdresser,"Berliner Straße 88, 18107 Rostock",Rostock,18107
+Barber Shop Rostock,+49 381 66725061,kontakt@barber-shop-rostock.de,https://www.barber-shop-rostock.de,Hairdresser,"Marktplatz 88, 18106 Rostock",Rostock,18106
+Barber Shop Rostock 97,+49 381 64719831,barber-shop-rostock-97@gmail.com,https://www.barber-shop-rostock-97.de,Hairdresser,"Hamburger Straße 29, 18119 Rostock",Rostock,18119
+Barbier Rostock,+49 381 84467180,barbier-rostock@gmx.de,https://www.barbier-rostock.de,Hairdresser,"Lindenstraße 103, 18119 Rostock",Rostock,18119
+Beauty Salon 70,+49 381 59030801,beauty-salon-70@t-online.de,https://www.beauty-salon-70.de,Hairdresser,"Münchner Straße 12, 18057 Rostock",Rostock,18057
+Beauty Salon Rostock,+49 381 27904748,beauty-salon-rostock@gmail.com,https://www.beauty-salon-rostock.de,Hairdresser,"Friedrichstraße 118, 18057 Rostock",Rostock,18057
+Coiffeur Mitte 78,+49 381 50931509,termin@coiffeur-mitte-78.de,,Hairdresser,"Friedrichstraße 93, 18119 Rostock",Rostock,18119
+Friseur Mitte 62,+49 381 12892054,termin@friseur-mitte-62.de,https://www.friseur-mitte-62.de,Barber,"Hauptstraße 110, 18119 Rostock",Rostock,18119
+Friseursalon City 75,+49 381 32623411,friseursalon-city-75@t-online.de,https://www.friseursalon-city-75.de,Barber,"Hamburger Straße 24, 18059 Rostock",Rostock,18059
+Friseursalon Mitte 99,+49 381 99612888,friseursalon-mitte-99@gmx.de,https://www.friseursalon-mitte-99.de,Hairdresser,"Marktplatz 126, 18059 Rostock",Rostock,18059
+Friseursalon Zentrum 67,+49 381 27765277,friseursalon-zentrum-67@gmx.de,https://www.friseursalon-zentrum-67.de,Hairdresser,"Kirchstraße 103, 18059 Rostock",Rostock,18059
+Friseursalon Zentrum 81,+49 381 13116566,salon@friseursalon-zentrum-81.de,https://www.friseursalon-zentrum-81.de,Hairdresser,"Marktplatz 36, 18107 Rostock",Rostock,18107
+Haarsalon 76,+49 381 41830095,info@haarsalon-76.de,https://www.haarsalon-76.de,Barber,"Hamburger Straße 7, 18059 Rostock",Rostock,18059
+Haarsalon City 53,+49 381 97141661,haarsalon-city-53@t-online.de,https://www.haarsalon-city-53.de,Hairdresser,"Kölner Straße 8, 18109 Rostock",Rostock,18109
+Haarwerk 30,+49 381 32451330,kontakt@haarwerk-30.de,,Hairdresser,"Hauptstraße 48, 18107 Rostock",Rostock,18107
+Herrenfriseur 67,+49 381 87818589,info@herrenfriseur-67.de,https://www.herrenfriseur-67.de,Hairdresser,"Marktplatz 127, 18069 Rostock",Rostock,18069
+Salon 42,+49 381 66973059,salon-42@gmail.com,https://www.salon-42.de,Hairdresser,"Berliner Straße 103, 18106 Rostock",Rostock,18106
+Schnitt & Style City 68,+49 381 23123017,termin@schnitt--style-city-68.de,https://www.schnitt--style-city-68.de,Hairdresser,"Königstraße 2, 18059 Rostock",Rostock,18059
+Barber Shop,+49 711 62562714,barber-shop@gmx.de,https://www.barber-shop.de,Hairdresser,"Goethestraße 106, 70186 Stuttgart",Stuttgart,70186
+Barber Shop Stuttgart,+49 711 32525217,barber-shop-stuttgart@gmail.com,https://www.barber-shop-stuttgart.de,Hairdresser,"Kaiserstraße 47, 70178 Stuttgart",Stuttgart,70178
+Barbier City 74,+49 711 73485887,info@barbier-city-74.de,,Hairdresser,"Schillerstraße 30, 70180 Stuttgart",Stuttgart,70180
+Barbier Zentrum,+49 711 76112145,salon@barbier-zentrum.de,https://www.barbier-zentrum.de,Hairdresser,"Königstraße 64, 70176 Stuttgart",Stuttgart,70176
+Beauty Salon 68,+49 711 52982227,salon@beauty-salon-68.de,https://www.beauty-salon-68.de,Hairdresser,"Kaiserstraße 131, 70180 Stuttgart",Stuttgart,70180
+Coiffeur Mitte 74,+49 711 22098260,salon@coiffeur-mitte-74.de,https://www.coiffeur-mitte-74.de,Barber,"Berliner Straße 99, 70174 Stuttgart",Stuttgart,70174
+Damenfriseur Mitte 84,+49 711 50730671,termin@damenfriseur-mitte-84.de,https://www.damenfriseur-mitte-84.de,Hairdresser,"Friedrichstraße 112, 70184 Stuttgart",Stuttgart,70184
+Damenfriseur Stuttgart,+49 711 20998021,info@damenfriseur-stuttgart.de,https://www.damenfriseur-stuttgart.de,Hairdresser,"Lindenstraße 45, 70186 Stuttgart",Stuttgart,70186
+Friseur Mitte,+49 711 76744476,salon@friseur-mitte.de,https://www.friseur-mitte.de,Hairdresser,"Lindenstraße 118, 70182 Stuttgart",Stuttgart,70182
+Friseur Stuttgart,+49 711 93820133,friseur-stuttgart@gmx.de,,Hairdresser,"Hauptstraße 40, 70180 Stuttgart",Stuttgart,70180
+Friseursalon Stuttgart,+49 711 58398820,friseursalon-stuttgart@gmail.com,https://www.friseursalon-stuttgart.de,Hairdresser,"Friedrichstraße 7, 70176 Stuttgart",Stuttgart,70176
+Frisör 46,+49 711 82680462,frisr-46@outlook.de,https://www.frisr-46.de,Barber,"Hauptstraße 132, 70173 Stuttgart",Stuttgart,70173
+Frisör Mitte 51,+49 711 30567707,kontakt@frisr-mitte-51.de,,Hairdresser,"Kaiserstraße 66, 70184 Stuttgart",Stuttgart,70184
+Gentlemen's Cut Stuttgart,+49 711 15008858,kontakt@gentlemens-cut-stuttgart.de,https://www.gentlemens-cut-stuttgart.de,Hairdresser,"Hamburger Straße 119, 70180 Stuttgart",Stuttgart,70180
+Gentlemen's Cut Zentrum 39,+49 711 19536658,service@gentlemens-cut-zentrum-39.de,,Hairdresser,"Goethestraße 25, 70182 Stuttgart",Stuttgart,70182
+Haarsalon Stuttgart,+49 711 45833100,haarsalon-stuttgart@gmail.com,,Hairdresser,"Lindenstraße 58, 70186 Stuttgart",Stuttgart,70186
+Haarsalon Zentrum 52,+49 711 79349069,info@haarsalon-zentrum-52.de,https://www.haarsalon-zentrum-52.de,Hairdresser,"Schillerstraße 113, 70184 Stuttgart",Stuttgart,70184
+Haarstudio City 11,+49 711 41435751,haarstudio-city-11@outlook.de,,Hairdresser,"Lindenstraße 117, 70174 Stuttgart",Stuttgart,70174
+Haarwerk City 89,+49 711 30366677,haarwerk-city-89@web.de,https://www.haarwerk-city-89.de,Hairdresser,"Münchner Straße 108, 70178 Stuttgart",Stuttgart,70178
+Herrenfriseur Mitte 34,+49 711 68626043,herrenfriseur-mitte-34@gmx.de,https://www.herrenfriseur-mitte-34.de,Hairdresser,"Hamburger Straße 3, 70176 Stuttgart",Stuttgart,70176
+Herrenfriseur Stuttgart,+49 711 85195109,termin@herrenfriseur-stuttgart.de,https://www.herrenfriseur-stuttgart.de,Hairdresser,"Kaiserstraße 116, 70182 Stuttgart",Stuttgart,70182
+Salon Stuttgart,+49 711 53347555,salon@salon-stuttgart.de,https://www.salon-stuttgart.de,Hairdresser,"Goethestraße 103, 70186 Stuttgart",Stuttgart,70186
+Salon Stuttgart 42,+49 711 50916960,salon@salon-stuttgart-42.de,,Hairdresser,"Goethestraße 14, 70176 Stuttgart",Stuttgart,70176
+Schnitt & Style,+49 711 16023006,termin@schnitt--style.de,https://www.schnitt--style.de,Hairdresser,"Kaiserstraße 139, 70184 Stuttgart",Stuttgart,70184
+Schnitt & Style Zentrum 95,+49 711 38318142,service@schnitt--style-zentrum-95.de,https://www.schnitt--style-zentrum-95.de,Hairdresser,"Schillerstraße 71, 70173 Stuttgart",Stuttgart,70173
+Barber City 10,+49 611 92046080,barber-city-10@gmx.de,https://www.barber-city-10.de,Hairdresser,"Bahnhofstraße 68, 65185 Wiesbaden",Wiesbaden,65185
+Barber Mitte 69,+49 611 48780265,salon@barber-mitte-69.de,https://www.barber-mitte-69.de,Barber,"Hamburger Straße 61, 65195 Wiesbaden",Wiesbaden,65195
+Barber Shop 93,+49 611 54647043,service@barber-shop-93.de,https://www.barber-shop-93.de,Hairdresser,"Kaiserstraße 1, 65187 Wiesbaden",Wiesbaden,65187
+Barbier Mitte 80,+49 611 24048431,salon@barbier-mitte-80.de,https://www.barbier-mitte-80.de,Hairdresser,"Berliner Straße 107, 65185 Wiesbaden",Wiesbaden,65185
+Coiffeur City 40,+49 611 49744407,coiffeur-city-40@t-online.de,https://www.coiffeur-city-40.de,Hairdresser,"Kirchstraße 39, 65193 Wiesbaden",Wiesbaden,65193
+Damenfriseur City 61,+49 611 78765637,info@damenfriseur-city-61.de,https://www.damenfriseur-city-61.de,Barber,"Marktplatz 122, 65193 Wiesbaden",Wiesbaden,65193
+Friseur Wiesbaden,+49 611 83847415,service@friseur-wiesbaden.de,https://www.friseur-wiesbaden.de,Hairdresser,"Marktplatz 64, 65193 Wiesbaden",Wiesbaden,65193
+Frisör 38,+49 611 16429334,frisr-38@t-online.de,,Hairdresser,"Kirchstraße 108, 65193 Wiesbaden",Wiesbaden,65193
+Haarsalon Zentrum 67,+49 611 78211915,service@haarsalon-zentrum-67.de,https://www.haarsalon-zentrum-67.de,Hairdresser,"Friedrichstraße 111, 65191 Wiesbaden",Wiesbaden,65191
+Haarstudio Mitte 48,+49 611 66686441,salon@haarstudio-mitte-48.de,,Barber,"Lindenstraße 106, 65193 Wiesbaden",Wiesbaden,65193
+Haarwerk Zentrum 18,+49 611 80059028,haarwerk-zentrum-18@gmail.com,https://www.haarwerk-zentrum-18.de,Hairdresser,"Friedrichstraße 57, 65187 Wiesbaden",Wiesbaden,65187
+Hair & Beauty City 40,+49 611 89773469,service@hair--beauty-city-40.de,https://www.hair--beauty-city-40.de,Hairdresser,"Hauptstraße 135, 65189 Wiesbaden",Wiesbaden,65189
+Hair & Beauty Wiesbaden,+49 611 74393755,service@hair--beauty-wiesbaden.de,https://www.hair--beauty-wiesbaden.de,Barber,"Lindenstraße 43, 65187 Wiesbaden",Wiesbaden,65187
+Hair Design 84,+49 611 38568364,service@hair-design-84.de,https://www.hair-design-84.de,Hairdresser,"Berliner Straße 8, 65185 Wiesbaden",Wiesbaden,65185
+Hair Design Wiesbaden,+49 611 89389438,salon@hair-design-wiesbaden.de,https://www.hair-design-wiesbaden.de,Hairdresser,"Kirchstraße 85, 65191 Wiesbaden",Wiesbaden,65191
+Hair Lounge 5,+49 611 96180326,salon@hair-lounge-5.de,https://www.hair-lounge-5.de,Hairdresser,"Schillerstraße 128, 65187 Wiesbaden",Wiesbaden,65187
+Hair Lounge 69,+49 611 17675516,salon@hair-lounge-69.de,https://www.hair-lounge-69.de,Hairdresser,"Kölner Straße 137, 65185 Wiesbaden",Wiesbaden,65185
+Herrenfriseur Zentrum 72,+49 611 49536200,termin@herrenfriseur-zentrum-72.de,https://www.herrenfriseur-zentrum-72.de,Hairdresser,"Kölner Straße 67, 65183 Wiesbaden",Wiesbaden,65183
+Barber Shop 56,+49 202 75307397,barber-shop-56@gmx.de,https://www.barber-shop-56.de,Hairdresser,"Königstraße 14, 42103 Wuppertal",Wuppertal,42103
+Barber Shop Wuppertal,+49 202 74107652,barber-shop-wuppertal@gmx.de,https://www.barber-shop-wuppertal.de,Hairdresser,"Hamburger Straße 133, 42117 Wuppertal",Wuppertal,42117
+Friseur City 52,+49 202 71009979,salon@friseur-city-52.de,https://www.friseur-city-52.de,Hairdresser,"Münchner Straße 23, 42117 Wuppertal",Wuppertal,42117
+Friseursalon Wuppertal,+49 202 26365027,termin@friseursalon-wuppertal.de,https://www.friseursalon-wuppertal.de,Hairdresser,"Kirchstraße 78, 42107 Wuppertal",Wuppertal,42107
+Frisör 63,+49 202 14542553,service@frisr-63.de,,Hairdresser,"Schillerstraße 64, 42117 Wuppertal",Wuppertal,42117
+Frisör City 76,+49 202 32022582,termin@frisr-city-76.de,https://www.frisr-city-76.de,Hairdresser,"Bahnhofstraße 63, 42113 Wuppertal",Wuppertal,42113
+Frisör Wuppertal,+49 202 92127583,kontakt@frisr-wuppertal.de,https://www.frisr-wuppertal.de,Hairdresser,"Marktplatz 45, 42113 Wuppertal",Wuppertal,42113
+Gentlemen's Cut Wuppertal,+49 202 95212152,service@gentlemens-cut-wuppertal.de,https://www.gentlemens-cut-wuppertal.de,Hairdresser,"Schillerstraße 131, 42107 Wuppertal",Wuppertal,42107
+Haar Atelier City 57,+49 202 16136568,haar-atelier-city-57@gmx.de,https://www.haar-atelier-city-57.de,Hairdresser,"Schillerstraße 123, 42107 Wuppertal",Wuppertal,42107
+Haarsalon Wuppertal,+49 202 72204071,haarsalon-wuppertal@gmail.com,https://www.haarsalon-wuppertal.de,Barber,"Kirchstraße 5, 42113 Wuppertal",Wuppertal,42113
+Haarsalon Zentrum 41,+49 202 63105727,kontakt@haarsalon-zentrum-41.de,https://www.haarsalon-zentrum-41.de,Hairdresser,"Königstraße 61, 42105 Wuppertal",Wuppertal,42105
+Haarsalon Zentrum 9,+49 202 89470075,kontakt@haarsalon-zentrum-9.de,,Hairdresser,"Goethestraße 13, 42103 Wuppertal",Wuppertal,42103
+Haarstudio City 2,+49 202 86760420,haarstudio-city-2@gmx.de,https://www.haarstudio-city-2.de,Barber,"Hauptstraße 125, 42105 Wuppertal",Wuppertal,42105
+Haarwerk Wuppertal,+49 202 38249116,haarwerk-wuppertal@gmail.com,,Hairdresser,"Bahnhofstraße 19, 42109 Wuppertal",Wuppertal,42109
+Haarwerk Zentrum 94,+49 202 12890095,kontakt@haarwerk-zentrum-94.de,https://www.haarwerk-zentrum-94.de,Barber,"Münchner Straße 64, 42105 Wuppertal",Wuppertal,42105
+Hair & Beauty 14,+49 202 43719993,info@hair--beauty-14.de,https://www.hair--beauty-14.de,Barber,"Kirchstraße 126, 42117 Wuppertal",Wuppertal,42117
+Hair & Beauty Wuppertal,+49 202 61803700,termin@hair--beauty-wuppertal.de,https://www.hair--beauty-wuppertal.de,Hairdresser,"Münchner Straße 137, 42115 Wuppertal",Wuppertal,42115
+Hair & Beauty Zentrum 64,+49 202 58485341,salon@hair--beauty-zentrum-64.de,https://www.hair--beauty-zentrum-64.de,Hairdresser,"Hauptstraße 141, 42105 Wuppertal",Wuppertal,42105
+Hair Design City 60,+49 202 32418337,termin@hair-design-city-60.de,https://www.hair-design-city-60.de,Hairdresser,"Friedrichstraße 63, 42107 Wuppertal",Wuppertal,42107
+Hair Lounge Zentrum 81,+49 202 46502346,salon@hair-lounge-zentrum-81.de,,Hairdresser,"Kaiserstraße 100, 42111 Wuppertal",Wuppertal,42111
+Herrenfriseur Wuppertal,+49 202 65570304,termin@herrenfriseur-wuppertal.de,https://www.herrenfriseur-wuppertal.de,Hairdresser,"Hamburger Straße 45, 42115 Wuppertal",Wuppertal,42115
+Salon Zentrum 87,+49 202 46514557,salon-zentrum-87@gmail.com,https://www.salon-zentrum-87.de,Hairdresser,"Schillerstraße 130, 42103 Wuppertal",Wuppertal,42103
+Schnitt & Style Wuppertal,+49 202 95835117,service@schnitt--style-wuppertal.de,https://www.schnitt--style-wuppertal.de,Barber,"Kirchstraße 38, 42103 Wuppertal",Wuppertal,42103
